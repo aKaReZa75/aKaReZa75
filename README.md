@@ -1,5 +1,5 @@
 ## 👋🏽 Hi there, I'm aKaReZa 👨🏽‍💻
-[![Watch the video](https://img.youtube.com/vi/UXCB329iN3c/hqdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://img.youtube.com/vi/UXCB329iN3c/hqdefault.jpg)](https://youtu.be/UXCB329iN3c)
 
 YouTube PlayList
 -------------
