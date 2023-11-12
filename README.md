@@ -14,8 +14,11 @@ YouTube PlayList
 
 gitHub Repositorie
 -------------
+[![](https://img.shields.io/badge/PCB-gitHub-red)](https://github.com/aKaReZa75/PCB)
+[![](https://img.shields.io/badge/C&C++-gitHub-white)](https://github.com/aKaReZa75/C_and_CPP) 
 [![](https://img.shields.io/badge/AVR-gitHub-brown)](https://github.com/aKaReZa75/AVR) 
-
+[![](https://img.shields.io/badge/Simulation-gitHub-pink)](https://github.com/aKaReZa75/Simulation)
+[![](https://img.shields.io/badge/Question&Answer-gitHub-blue)](https://github.com/aKaReZa75/Question_and_Answer)
 
 ### Videos:
 Printed Circuit Board
