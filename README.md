@@ -63,6 +63,8 @@ Repair
 -------------
 [![](https://img.shields.io/badge/Repair-VC97-Green)](https://youtu.be/h5BaUcLpn8E)
 [![](https://img.shields.io/badge/Repair-LED_Bulb-Green)](https://youtu.be/wHrkd33FlMY)
+[![](https://img.shields.io/badge/Repair-VC97_EEPROM_IC-Green)](https://youtu.be/gtcGRJrS7b0)
+
 
 Question & Answer
 -------------
