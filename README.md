@@ -1,4 +1,4 @@
-![Pinouts](https://github.com/aKaReZa75/aKaReZa75/assets/32429180/ac4b8850-6b89-4f43-aabf-a009e96855d8)## 👋🏽 Hi there, I'm aKaReZa 👨🏽‍💻
+## 👋🏽 Hi there, I'm aKaReZa 👨🏽‍💻
 [![Watch the video](https://img.youtube.com/vi/UXCB329iN3c/hqdefault.jpg)](https://youtu.be/UXCB329iN3c)
 
 YouTube PlayList
