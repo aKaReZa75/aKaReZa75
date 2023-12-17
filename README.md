@@ -1,4 +1,4 @@
-## 👋🏽 Hi there, I'm aKaReZa 👨🏽‍💻
+![Pinouts](https://github.com/aKaReZa75/aKaReZa75/assets/32429180/ac4b8850-6b89-4f43-aabf-a009e96855d8)## 👋🏽 Hi there, I'm aKaReZa 👨🏽‍💻
 [![Watch the video](https://img.youtube.com/vi/UXCB329iN3c/hqdefault.jpg)](https://youtu.be/UXCB329iN3c)
 
 YouTube PlayList
@@ -30,6 +30,7 @@ Printed Circuit Board
 [![](https://img.shields.io/badge/PCB-Schematic-red)](https://youtu.be/hTGrnCFe-TQ)
 [![](https://img.shields.io/badge/PCB-PCB_Lyaers-red)](https://youtu.be/YPvdcqQbbiQ)
 [![](https://img.shields.io/badge/PCB-Trace_Properties-red)](https://youtu.be/hNCFRN08QaA)
+[![](https://img.shields.io/badge/PCB-Driving_GPIO_output_pins-red)](https://youtu.be/3z51BFROeN8)
 
 MicroController
 -------------
