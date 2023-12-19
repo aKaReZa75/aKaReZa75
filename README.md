@@ -5,7 +5,7 @@ YouTube PlayList
 -------------
 [![](https://img.shields.io/badge/PCB-YouTube-red)](https://www.youtube.com/playlist?list=PLDdvbHxhit_W--r5IEt43l0Vvq7jrmNnc)
 [![](https://img.shields.io/badge/Microcontroller-YouTube-orange)](https://www.youtube.com/playlist?list=PLDdvbHxhit_X3Aj13pAqfhCX3Dn080p6r)
-[![](https://img.shields.io/badge/C&C++-YouTube-white)](https://www.youtube.com/playlist?list=PLDdvbHxhit_W9vpcuL50-rDclk618TX1m)
+[![](https://img.shields.io/badge/Programing-YouTube-white)](https://www.youtube.com/playlist?list=PLDdvbHxhit_W9vpcuL50-rDclk618TX1m)
 [![](https://img.shields.io/badge/AVR-YouTube-brown)](https://www.youtube.com/playlist?list=PLDdvbHxhit_Wx2JMPtw0zOPWzKg26iM7O)
 [![](https://img.shields.io/badge/Simulation-YouTube-pink)](https://www.youtube.com/playlist?list=PLDdvbHxhit_Vf8L-iqs1Ghmh3y3YMZl1j)
 [![](https://img.shields.io/badge/Repair-YouTube-green)](https://www.youtube.com/playlist?list=PLDdvbHxhit_V9iBONUs84wzHkYQkxk7gm)
@@ -46,9 +46,9 @@ MicroController
 [![](https://img.shields.io/badge/uC-Display-orange)](https://youtu.be/C2yjVLjOY4c)
 [![](https://img.shields.io/badge/uC-Arduino_BootLoader-orange)](https://youtu.be/zN1l83ps8rc)
 
-C & C++
+Programing
 -------------
-[![](https://img.shields.io/badge/C&CPP-VsCode-white)](https://youtu.be/pgIYUdyb7S8)
+[![](https://img.shields.io/badge/Programing-VsCode-white)](https://youtu.be/pgIYUdyb7S8)
 
 AVR
 -------------
