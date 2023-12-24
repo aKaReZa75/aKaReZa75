@@ -61,6 +61,7 @@ AVR
 Simulation
 -------------
 [![](https://img.shields.io/badge/Sim-Introduction-pink)](https://youtu.be/VqN2q2Agd-M)
+[![](https://img.shields.io/badge/Proteus-Transient_AC_Analysis-pink)](https://youtu.be/yoHRWpZNOko)
 
 Repair
 -------------
