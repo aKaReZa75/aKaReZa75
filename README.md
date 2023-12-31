@@ -45,8 +45,9 @@ MicroController
 [![](https://img.shields.io/badge/uC-Practical-orange)](https://youtu.be/5B_eDfAgxZU)
 [![](https://img.shields.io/badge/uC-Display-orange)](https://youtu.be/C2yjVLjOY4c)
 [![](https://img.shields.io/badge/uC-Arduino_BootLoader-orange)](https://youtu.be/zN1l83ps8rc)
+[![](https://img.shields.io/badge/uC-7Segments-orange)](https://youtu.be/ZmDLpSMhs-I)
 
-Programing
+Programming
 -------------
 [![](https://img.shields.io/badge/Programing-VsCode-white)](https://youtu.be/pgIYUdyb7S8)
 [![](https://img.shields.io/badge/Programing-Git_PARTA-white)](https://youtu.be/BsykgHpmUt8)
