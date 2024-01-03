@@ -12,7 +12,7 @@ YouTube PlayList
 [![](https://img.shields.io/badge/Question&Answer-YouTube-blue)](https://www.youtube.com/playlist?list=PLDdvbHxhit_UshAdCjgSqWPBRVwbOWHef)
 
 
-gitHub Repositorie
+GitHub Repositories
 -------------
 [![](https://img.shields.io/badge/PCB-gitHub-red)](https://github.com/aKaReZa75/PCB)
 [![](https://img.shields.io/badge/Microcontroller-gitHub-orange)](https://github.com/aKaReZa75/Microcontroller.git)
@@ -31,6 +31,7 @@ Printed Circuit Board
 [![](https://img.shields.io/badge/PCB-PCB_Lyaers-red)](https://youtu.be/YPvdcqQbbiQ)
 [![](https://img.shields.io/badge/PCB-Trace_Properties-red)](https://youtu.be/hNCFRN08QaA)
 [![](https://img.shields.io/badge/PCB-Driving_GPIO_output_pins-red)](https://youtu.be/3z51BFROeN8)
+[![](https://img.shields.io/badge/PCB-7Segment_Shield_Part_A-red)](https://youtu.be/BtFFsqzkCSk)
 
 MicroController
 -------------
