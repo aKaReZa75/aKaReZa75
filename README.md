@@ -52,6 +52,7 @@ Programming
 -------------
 [![](https://img.shields.io/badge/Programing-VsCode-white)](https://youtu.be/pgIYUdyb7S8)
 [![](https://img.shields.io/badge/Programing-Git_PARTA-white)](https://youtu.be/BsykgHpmUt8)
+[![](https://img.shields.io/badge/Programing-C_Introduction-white)](https://youtu.be/O0GhZzvmRa0)
 
 AVR
 -------------
