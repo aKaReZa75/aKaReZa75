@@ -32,6 +32,7 @@ Printed Circuit Board
 [![](https://img.shields.io/badge/PCB-Trace_Properties-red)](https://youtu.be/hNCFRN08QaA)
 [![](https://img.shields.io/badge/PCB-Driving_GPIO_output_pins-red)](https://youtu.be/3z51BFROeN8)
 [![](https://img.shields.io/badge/PCB-7Segment_Shield_Part_A-red)](https://youtu.be/BtFFsqzkCSk)
+[![](https://img.shields.io/badge/PCB-7Segment_Shield_Part_B-red)](https://youtu.be/yqlKacCi0RM)
 
 MicroController
 -------------
