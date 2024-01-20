@@ -85,6 +85,13 @@ Question & Answer
 [![](https://img.shields.io/badge/Q&A-The_best_way_to_manage_Electronics_Components_Inventory-blue)](https://youtu.be/F4Bge-_tUWE)
 [![](https://img.shields.io/badge/Q&A-Arduino_UNO_Auto_Reset_EN_Jumper-blue)](https://youtu.be/xZejI3MDGFw)
 
+Donations
+-------------
+| Siroos Hemmati  | Ali Padash | Pouriya MotiePour | Masoud RadFar |
+| :---:   | :---:     | :---:      | :---:   |
+| Jamil Ahmadi Rovari  | Mohammad Mehdi Ahamdi | Uknown1 |  |
+
+
 Contact Us
 -------------
 [![](https://img.shields.io/badge/E-Mail-yellow)](mailto:aKaReZa75@gmail.com)
