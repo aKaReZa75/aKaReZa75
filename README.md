@@ -77,6 +77,7 @@ Repair
 [![](https://img.shields.io/badge/Repair-LED_Bulb-Green)](https://youtu.be/wHrkd33FlMY)
 [![](https://img.shields.io/badge/Repair-VC97_EEPROM_IC-Green)](https://youtu.be/gtcGRJrS7b0)
 [![](https://img.shields.io/badge/Repair-Soldering_Tools-Green)](https://youtu.be/6Y1DflvL5zI)
+[![](https://img.shields.io/badge/Repair-Arduino_7Segment_Shield_Soldering-Green)](https://youtu.be/1Rpm_uHoqAg)
 
 Question & Answer
 -------------
