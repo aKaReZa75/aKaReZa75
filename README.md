@@ -64,6 +64,7 @@ AVR
 [![](https://img.shields.io/badge/AVR-GPIO_Part_A-brown)](https://youtu.be/_0uQSh0qBBo)
 [![](https://img.shields.io/badge/AVR-Programing-brown)](https://youtu.be/Kn6aQvtuO08)
 [![](https://img.shields.io/badge/AVR-GPIO_Part_B-brown)](https://youtu.be/xa3nRQx28Nw)
+[![](https://img.shields.io/badge/AVR-7Segment_Part_A-brown)](https://youtu.be/HGlJtcpjZ-E)
 
 Simulation
 -------------
