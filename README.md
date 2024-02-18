@@ -75,6 +75,7 @@ Simulation
 [![](https://img.shields.io/badge/Proteus-DC_Analysis-pink)](https://youtu.be/DNlR-f8oeuQ)
 [![](https://img.shields.io/badge/Proteus-Transient_AC_Analysis-pink)](https://youtu.be/yoHRWpZNOko)
 [![](https://img.shields.io/badge/LTSpice-Fast_and_Easy-pink)](https://youtu.be/E33UTtZUTCQ)
+[![](https://img.shields.io/badge/TINA-Fast_and_Easy-pink)](https://youtu.be/6yHGW2FJB5s)
 
 Repair
 -------------
