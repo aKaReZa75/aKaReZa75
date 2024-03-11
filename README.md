@@ -52,6 +52,7 @@ MicroController
 [![](https://img.shields.io/badge/uC-7Segments-orange)](https://youtu.be/ZmDLpSMhs-I)
 [![](https://img.shields.io/badge/uC-Alphanumeric_LCD-orange)](https://youtu.be/wq8CSptCZ9o)
 [![](https://img.shields.io/badge/uC-Interrupt-orange)](https://youtu.be/Zr2dET7aFKM)
+[![](https://img.shields.io/badge/uC-Timer_Counter-orange)](https://youtu.be/R8XcFXiZaRU)
 
 Programming
 -------------
