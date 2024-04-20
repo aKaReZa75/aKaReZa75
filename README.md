@@ -77,6 +77,7 @@ AVR
 [![](https://img.shields.io/badge/AVR-7Segment_Part_C-brown)](https://youtu.be/5OG6KQWCLCA)
 [![](https://img.shields.io/badge/AVR-External_Interrupts-brown)](https://youtu.be/eGV7mYVpWX4)
 [![](https://img.shields.io/badge/AVR-Alphanumeric_LCD-brown)](https://youtu.be/hNRjyU02NoM)
+[![](https://img.shields.io/badge/AVR-Timer_Accurate_Time,_Mode_1-brown)](https://youtu.be/J1_z-FngLbA)
 
 Simulation
 -------------
