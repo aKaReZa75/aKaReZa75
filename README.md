@@ -35,7 +35,7 @@ Printed Circuit Board
 [![](https://img.shields.io/badge/PCB-7Segment_Shield_Part_B-red)](https://youtu.be/yqlKacCi0RM)
 [![](https://img.shields.io/badge/PCB-USB_to_TTL-red)](https://youtu.be/CHOmadm1B9U)
 [![](https://img.shields.io/badge/PCB-How_to_drive_a_Relay-red)](https://youtu.be/Cm22w3K2WrA)
-[![](https://img.shields.io/badge/PCB-Linear_Regulator-red)](https://youtu.be/vyBnq8bQC2I)
+[![](https://img.shields.io/badge/PCB-Linear_Regulator-red)](https://youtu.be/eiynBFXXjeA)
 
 MicroController
 -------------
