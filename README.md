@@ -110,6 +110,12 @@ Question & Answer
 [![](https://img.shields.io/badge/Q&A-The_best_way_to_manage_Electronics_Components_Inventory-blue)](https://youtu.be/F4Bge-_tUWE)
 [![](https://img.shields.io/badge/Q&A-Arduino_UNO_Auto_Reset_EN_Jumper-blue)](https://youtu.be/xZejI3MDGFw)
 
+Contents
+-------------
+| Count Videos | Secounds | Minutes | Hour-Min-Sec |
+|    :---:     |  :---:   |  :---:  |    :---:     |
+|      65      |  118528  |  1975   | 32 - 55 - 28 |
+
 Donations
 -------------
 | Siroos Hemmati  | Ali Padash | Pouriya MotiePour | Masoud RadFar |
