@@ -57,6 +57,7 @@ MicroController
 [![](https://img.shields.io/badge/uC-Timer_Counter-orange)](https://youtu.be/R8XcFXiZaRU)
 [![](https://img.shields.io/badge/uC-Communication_PART_A-orange)](https://youtu.be/CzTxCzfNQtw)
 [![](https://img.shields.io/badge/uC-Communication_PART_B-orange)](https://youtu.be/jNMS3Ukl_1E)
+[![](https://img.shields.io/badge/uC-Analog_Peripherals_PART_A-orange)](https://youtu.be/PrTcroT5kgM)
 
 Programming
 -------------
