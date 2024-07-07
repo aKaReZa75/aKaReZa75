@@ -9,6 +9,7 @@ YouTube PlayList
 [![](https://img.shields.io/badge/AVR-YouTube-brown)](https://www.youtube.com/playlist?list=PLDdvbHxhit_Wx2JMPtw0zOPWzKg26iM7O)
 [![](https://img.shields.io/badge/Simulation-YouTube-pink)](https://www.youtube.com/playlist?list=PLDdvbHxhit_Vf8L-iqs1Ghmh3y3YMZl1j)
 [![](https://img.shields.io/badge/Repair-YouTube-green)](https://www.youtube.com/playlist?list=PLDdvbHxhit_V9iBONUs84wzHkYQkxk7gm)
+[![](https://img.shields.io/badge/RCS_AVR-YouTube-violet)](https://www.youtube.com/playlist?list=PLDdvbHxhit_UYraCCA2tRs6xpqUhtd8Zg)
 [![](https://img.shields.io/badge/Question&Answer-YouTube-blue)](https://www.youtube.com/playlist?list=PLDdvbHxhit_UshAdCjgSqWPBRVwbOWHef)
 
 
@@ -21,8 +22,8 @@ GitHub Repositories
 [![](https://img.shields.io/badge/STM32-gitHub-yellow)](https://github.com/aKaReZa75/STM32) 
 [![](https://img.shields.io/badge/Simulation-gitHub-pink)](https://github.com/aKaReZa75/Simulation)
 [![](https://img.shields.io/badge/Repair-gitGub-green)](https://github.com/aKaReZa75/Repair)
+[![](https://img.shields.io/badge/RCS_AVR-gitHub-violet)](https://github.com/aKaReZa75/RCS_AVR)
 [![](https://img.shields.io/badge/Question&Answer-gitHub-blue)](https://github.com/aKaReZa75/Question_and_Answer)
-
 
 Printed Circuit Board
 -------------
@@ -107,6 +108,10 @@ Repair
 [![](https://img.shields.io/badge/Repair-Arduino_7Segment_Shield_Soldering-Green)](https://youtu.be/1Rpm_uHoqAg)
 [![](https://img.shields.io/badge/Repair-USB_to_TTL_Soldering-Green)](https://youtu.be/JnmfULXj2iA)
 
+RCS-AVR
+-------------
+[![](https://img.shields.io/badge/RCS-AVR,PART_A-violet)](https://youtu.be/KLH8E3yOOMw)
+
 Question & Answer
 -------------
 [![](https://img.shields.io/badge/Q&A-How_to_use_a_breadboard-blue)](https://youtu.be/7HrpzfcJx-o)
@@ -119,7 +124,7 @@ Contents
 -------------
 | Count Videos | Secounds | Minutes | Hour-Min-Sec |
 |    :---:     |  :---:   |  :---:  |    :---:     |
-|      69      |  129774  |  2163   | 36 - 02 - 53 |
+|      70      |  131691  |  2195   | 36 - 34 - 50 |
 
 Donations
 -------------
