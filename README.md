@@ -111,6 +111,7 @@ Repair
 RCS-AVR
 -------------
 [![](https://img.shields.io/badge/RCS-AVR,PART_A-violet)](https://youtu.be/KLH8E3yOOMw)
+[![](https://img.shields.io/badge/RCS-AVR,PART_B-violet)](https://youtu.be/-EyT4b3-hQU)
 
 Question & Answer
 -------------
@@ -124,7 +125,7 @@ Contents
 -------------
 | Count Videos | Secounds | Minutes | Hour-Min-Sec |
 |    :---:     |  :---:   |  :---:  |    :---:     |
-|      70      |  131691  |  2195   | 36 - 34 - 50 |
+|      71      |  134039  |  2235   | 37 - 14 - 52 |
 
 Donations
 -------------
