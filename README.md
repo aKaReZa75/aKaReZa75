@@ -113,6 +113,7 @@ RCS-AVR
 [![](https://img.shields.io/badge/RCS-AVR,PART_A-violet)](https://youtu.be/KLH8E3yOOMw)
 [![](https://img.shields.io/badge/RCS-AVR,PART_B-violet)](https://youtu.be/-EyT4b3-hQU)
 [![](https://img.shields.io/badge/RCS-AVR,PART_C-violet)](https://youtu.be/bh53Z6KH728)
+[![](https://img.shields.io/badge/RCS-AVR,PART_D-violet)](https://youtu.be/vWiSh-8D4kY)
 
 Question & Answer
 -------------
@@ -126,7 +127,7 @@ Contents
 -------------
 | Count Videos | Secounds | Minutes | Hour-Min-Sec |
 |    :---:     |  :---:   |  :---:  |    :---:     |
-|      72      |  136390  |  2273   | 37 - 53 - 10 |
+|      73      |  138401  |  2307   | 38 - 26 - 41 |
 
 Donations
 -------------
