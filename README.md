@@ -10,6 +10,7 @@ YouTube PlayList
 [![](https://img.shields.io/badge/Simulation-YouTube-pink)](https://www.youtube.com/playlist?list=PLDdvbHxhit_Vf8L-iqs1Ghmh3y3YMZl1j)
 [![](https://img.shields.io/badge/Repair-YouTube-green)](https://www.youtube.com/playlist?list=PLDdvbHxhit_V9iBONUs84wzHkYQkxk7gm)
 [![](https://img.shields.io/badge/RCS_AVR-YouTube-violet)](https://www.youtube.com/playlist?list=PLDdvbHxhit_UYraCCA2tRs6xpqUhtd8Zg)
+[![](https://img.shields.io/badge/eBoard-YouTube-yellow)](https://www.youtube.com/playlist?list=PLDdvbHxhit_XsvGOOmd2-cH1WSvNO1YPF)
 [![](https://img.shields.io/badge/Question&Answer-YouTube-blue)](https://www.youtube.com/playlist?list=PLDdvbHxhit_UshAdCjgSqWPBRVwbOWHef)
 
 
@@ -23,6 +24,7 @@ GitHub Repositories
 [![](https://img.shields.io/badge/Simulation-gitHub-pink)](https://github.com/aKaReZa75/Simulation)
 [![](https://img.shields.io/badge/Repair-gitGub-green)](https://github.com/aKaReZa75/Repair)
 [![](https://img.shields.io/badge/RCS_AVR-gitHub-violet)](https://github.com/aKaReZa75/RCS_AVR)
+[![](https://img.shields.io/badge/eBoard-gitHub-yellow)](https://github.com/aKaReZa75/Educational_Boards)
 [![](https://img.shields.io/badge/Question&Answer-gitHub-blue)](https://github.com/aKaReZa75/Question_and_Answer)
 
 Printed Circuit Board
@@ -115,6 +117,11 @@ RCS-AVR
 [![](https://img.shields.io/badge/RCS-AVR,PART_C-violet)](https://youtu.be/bh53Z6KH728)
 [![](https://img.shields.io/badge/RCS-AVR,PART_D-violet)](https://youtu.be/vWiSh-8D4kY)
 
+eBoards
+-------------
+[![](https://img.shields.io/badge/eBoard-AVR,PART_A-yellow)](https://youtu.be/-ttv7IQRaWA)
+
+
 Question & Answer
 -------------
 [![](https://img.shields.io/badge/Q&A-How_to_use_a_breadboard-blue)](https://youtu.be/7HrpzfcJx-o)
@@ -127,7 +134,7 @@ Contents
 -------------
 | Count Videos | Secounds | Minutes | Hour-Min-Sec |
 |    :---:     |  :---:   |  :---:  |    :---:     |
-|      73      |  138401  |  2307   | 38 - 26 - 41 |
+|      74      |  140115  |  2335   | 38 - 55 - 15 |
 
 Donations
 -------------
