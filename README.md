@@ -121,7 +121,7 @@ RCS-AVR
 eBoards
 -------------
 [![](https://img.shields.io/badge/eBoard-AVR,PART_A-yellow)](https://youtu.be/-ttv7IQRaWA)
-
+[![](https://img.shields.io/badge/eBoard-AVR,PART_B-yellow)](https://youtu.be/Ipy6SqzdZnI)
 
 Question & Answer
 -------------
@@ -135,7 +135,7 @@ Contents
 -------------
 | Count Videos | Secounds | Minutes | Hour-Min-Sec |
 |    :---:     |  :---:   |  :---:  |    :---:     |
-|      75      |  142640  |  2377   | 39 - 37 - 19 |
+|      76      |  144592  |  2410   | 40 - 09 - 51 |
 
 Donations
 -------------
