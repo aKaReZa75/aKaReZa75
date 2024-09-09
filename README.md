@@ -91,6 +91,7 @@ AVR
 [![](https://img.shields.io/badge/AVR-Timer_Accurate_Time,_Mode_1-brown)](https://youtu.be/J1_z-FngLbA)
 [![](https://img.shields.io/badge/AVR-Communication,_USART_Part_A-brown)](https://youtu.be/TJEfbymLoTs)
 [![](https://img.shields.io/badge/AVR-Communication,_USART_Part_B-brown)](https://youtu.be/HWJqS9NjYIA)
+[![](https://img.shields.io/badge/AVR-Analog,_ADC-brown)](https://youtu.be/SJJGwX5tNis)
 
 Simulation
 -------------
@@ -135,7 +136,7 @@ Contents
 -------------
 | Count Videos | Secounds | Minutes | Hour-Min-Sec |
 |    :---:     |  :---:   |  :---:  |    :---:     |
-|      76      |  144592  |  2410   | 40 - 09 - 51 |
+|      77      |  148414  |  2474   | 41 - 13 - 33 |
 
 Donations
 -------------
