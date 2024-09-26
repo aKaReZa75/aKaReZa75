@@ -140,6 +140,14 @@ Contents
 
 Donations
 -------------
+[Hami Bash](https://hamibash.com/aKaReZa75/ 'حامی من باش') 
+
+[Coffeete](https://www.coffeete.ir/aKaReZa75/ 'یک قهوه برام بخر') 
+
+[Crypto](https://nowpayments.io/donation/aKaReZa75/ 'حمایت از طریق رمز ارز') 
+
+[Dollar](https://nowpayments.io/pos-terminal/akareza75/ 'حمایت از طریق دلار') 
+
 | Siroos Hemmati  | Ali Padash | Pouriya MotiePour | Masoud RadFar |
 | :---:   | :---:     | :---:      | :---:   |
 | Jamil Ahmadi Rovari | Mohammad Mehdi Ahamdi | Uknown1 | Shahroz Amiri |
