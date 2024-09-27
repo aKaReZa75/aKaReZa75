@@ -40,6 +40,7 @@ Printed Circuit Board
 [![](https://img.shields.io/badge/PCB-How_to_drive_a_Relay-red)](https://youtu.be/Cm22w3K2WrA)
 [![](https://img.shields.io/badge/PCB-Linear_Regulator-red)](https://youtu.be/eiynBFXXjeA)
 [![](https://img.shields.io/badge/PCB-Switching_Regulator-red)](https://youtu.be/GH5ICs1DhkY)
+[![](https://img.shields.io/badge/PCB-Switching_Enclosure_PART_A-red)](https://youtu.be/Ss4O40y-sWo)
 
 
 MicroController
@@ -136,7 +137,7 @@ Contents
 -------------
 | Count Videos | Secounds | Minutes | Hour-Min-Sec |
 |    :---:     |  :---:   |  :---:  |    :---:     |
-|      77      |  148414  |  2474   | 41 - 13 - 33 |
+|      78      |  150550  |  2509   | 41 - 49 - 09 |
 
 Donations
 -------------
