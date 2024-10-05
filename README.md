@@ -152,9 +152,9 @@ Donations
 
 | Siroos Hemmati  | Ali Padash | Pouriya MotiePour | Masoud RadFar |
 | :---:   | :---:     | :---:      | :---:   |
-| Jamil Ahmadi Rovari | Mohammad Mehdi Ahamdi | Uknown1 | Shahroz Amiri |
+| Jamil Ahmadi Rovari | Mohammad Mehdi Ahamdi | Unknown1 | Shahroz Amiri |
 | Majid aRizehbandi	  | Ali Jafari | Mohammad Azizi | Mohammadreza Manafi |
-| Mr Abbas  | - | - | - |
+| Abbas AghaJani  | Unknown2 | - | - |
 
 
 Contact Us
