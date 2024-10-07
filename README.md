@@ -154,7 +154,7 @@ Donations
 | :---:   | :---:     | :---:      | :---:   |
 | Jamil Ahmadi Rovari | Mohammad Mehdi Ahamdi | Unknown1 | Shahroz Amiri |
 | Majid aRizehbandi	  | Ali Jafari | Mohammad Azizi | Mohammadreza Manafi |
-| Abbas AghaJani  | Unknown2 | - | - |
+| Abbas AghaJani  | Unknown2 | Quadro	| - |
 
 
 Contact Us
