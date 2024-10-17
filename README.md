@@ -120,6 +120,7 @@ RCS-AVR
 [![](https://img.shields.io/badge/RCS-AVR,PART_D-violet)](https://youtu.be/vWiSh-8D4kY)
 [![](https://img.shields.io/badge/RCS-AVR,PART_E-violet)](https://youtu.be/V0r4XVZA-bk)
 [![](https://img.shields.io/badge/RCS-AVR,PART_F-violet)](https://youtu.be/U1JYVCcn27k)
+[![](https://img.shields.io/badge/RCS-AVR,PART_G-violet)](https://youtu.be/pVAue7mcq5w)
 
 eBoards
 -------------
@@ -139,7 +140,7 @@ Contents
 -------------
 | Count Videos | Secounds | Minutes | Hour-Min-Sec |
 |    :---:     |  :---:   |  :---:  |    :---:     |
-|      80      |  154212  |  2570   | 42 - 50 - 11 |
+|      81      |  156887  |  2615   | 43 - 34 - 47 |
 
 Donations
 -------------
