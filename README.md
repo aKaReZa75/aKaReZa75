@@ -41,6 +41,7 @@ Printed Circuit Board
 [![](https://img.shields.io/badge/PCB-Linear_Regulator-red)](https://youtu.be/eiynBFXXjeA)
 [![](https://img.shields.io/badge/PCB-Switching_Regulator-red)](https://youtu.be/GH5ICs1DhkY)
 [![](https://img.shields.io/badge/PCB-Switching_Enclosure_PART_A-red)](https://youtu.be/Ss4O40y-sWo)
+[![](https://img.shields.io/badge/PCB-Library_PART_A-red)](https://youtu.be/yt6wmXNhPHg)
 
 
 MicroController
@@ -140,7 +141,7 @@ Contents
 -------------
 | Count Videos | Secounds | Minutes | Hour-Min-Sec |
 |    :---:     |  :---:   |  :---:  |    :---:     |
-|      81      |  156887  |  2615   | 43 - 34 - 47 |
+|      82      |  160176  |  2670   | 44 - 29 - 35 |
 
 Donations
 -------------
