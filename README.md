@@ -160,7 +160,7 @@ Donations
 | Jamil Ahmadi Rovari | Mohammad Mehdi Ahamdi | Unknown1 | Shahroz Amiri |
 | Majid aRizehbandi	  | Ali Jafari | Mohammad Azizi | Mohammadreza Manafi |
 | Abbas AghaJani  | Unknown2 | Quadro	| Mohammad Amini |
-| Mehrdad Ghasemi  | :---: | :---:	| :---: |
+| Mehrdad Ghasemi  | Mahmod Fakhri | :---:	| :---: |
 
 Contact Us
 -------------
