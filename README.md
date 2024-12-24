@@ -26,6 +26,8 @@ GitHub Repositories
 [![](https://img.shields.io/badge/RCS_AVR-gitHub-violet)](https://github.com/aKaReZa75/RCS_AVR)
 [![](https://img.shields.io/badge/eBoard-gitHub-yellow)](https://github.com/aKaReZa75/Educational_Boards)
 [![](https://img.shields.io/badge/Question&Answer-gitHub-blue)](https://github.com/aKaReZa75/Question_and_Answer)
+[![](https://img.shields.io/badge/Altium-Library-b59e64)](https://github.com/aKaReZa75/Altium-Library)
+[![](https://img.shields.io/badge/YouTube-Presentations-ff0033)](https://github.com/aKaReZa75/Presentations)
 
 Printed Circuit Board
 -------------
