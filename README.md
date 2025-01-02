@@ -132,6 +132,7 @@ eBoards
 -------------
 [![](https://img.shields.io/badge/eBoard-AVR,PART_A-yellow)](https://youtu.be/-ttv7IQRaWA)
 [![](https://img.shields.io/badge/eBoard-AVR,PART_B-yellow)](https://youtu.be/Ipy6SqzdZnI)
+[![](https://img.shields.io/badge/eBoard-AVR,PART_C-yellow)](https://youtu.be/WwyNDgpCwrc)
 
 Question & Answer
 -------------
@@ -146,7 +147,7 @@ Contents
 -------------
 | Count Videos | Secounds | Minutes | Hour-Min-Sec |
 |    :---:     |  :---:   |  :---:  |    :---:     |
-|      87      |  173679  |  2895   | 48 - 14 - 38 |
+|      88      |  176880  |  2948   | 49 - 07 - 59 |
 
 Donations
 -------------
