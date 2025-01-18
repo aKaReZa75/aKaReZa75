@@ -149,7 +149,7 @@ Question & Answer
 
 Contents
 -------------
-| Count Videos | Secounds | Minutes | Hour-Min-Sec |
+| Count Videos | Seconds  | Minutes | Hour-Min-Sec |
 |    :---:     |  :---:   |  :---:  |    :---:     |
 |      89      |  179676  |  2995   | 49 - 54 - 35 |
 
