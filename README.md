@@ -70,6 +70,7 @@ MicroController
 [![](https://img.shields.io/badge/uC-Analog_Peripherals_PART_A-orange)](https://youtu.be/PrTcroT5kgM)
 [![](https://img.shields.io/badge/uC-Analog_Peripherals_PART_B-orange)](https://youtu.be/F_oOUHInUFk)
 [![](https://img.shields.io/badge/uC-PMDC_Motor_PART_A-orange)](https://youtu.be/baebjz0w9KQ)
+[![](https://img.shields.io/badge/uC-PMDC_Motor_PART_B-orange)](https://youtu.be/Kle814RO_og)
 
 Programming
 -------------
@@ -151,7 +152,7 @@ Contents
 -------------
 | Count Videos | Seconds  | Minutes | Hour-Min-Sec |
 |    :---:     |  :---:   |  :---:  |    :---:     |
-|      89      |  179676  |  2995   | 49 - 54 - 35 |
+|      90      |  181432  |  3024   | 50 - 23 - 51 |
 
 Donations
 -------------
