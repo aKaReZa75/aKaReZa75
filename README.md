@@ -1,8 +1,7 @@
-## 👋🏽 Hi there, I'm aKaReZa 👨🏽‍💻
+# 👋🏽 Hi there, I'm aKaReZa 👨🏽‍💻
 [![Watch the video](https://img.youtube.com/vi/UXCB329iN3c/hqdefault.jpg)](https://youtu.be/UXCB329iN3c)
 
-YouTube PlayList
--------------
+# YouTube PlayList
 [![](https://img.shields.io/badge/PCB-YouTube-red)](https://www.youtube.com/playlist?list=PLDdvbHxhit_W--r5IEt43l0Vvq7jrmNnc)
 [![](https://img.shields.io/badge/Microcontroller-YouTube-orange)](https://www.youtube.com/playlist?list=PLDdvbHxhit_X3Aj13pAqfhCX3Dn080p6r)
 [![](https://img.shields.io/badge/Programing-YouTube-white)](https://www.youtube.com/playlist?list=PLDdvbHxhit_W9vpcuL50-rDclk618TX1m)
@@ -14,8 +13,7 @@ YouTube PlayList
 [![](https://img.shields.io/badge/Question&Answer-YouTube-blue)](https://www.youtube.com/playlist?list=PLDdvbHxhit_UshAdCjgSqWPBRVwbOWHef)
 
 
-GitHub Repositories
--------------
+# GitHub Repositories
 [![](https://img.shields.io/badge/PCB-gitHub-red)](https://github.com/aKaReZa75/PCB)
 [![](https://img.shields.io/badge/Microcontroller-gitHub-orange)](https://github.com/aKaReZa75/Microcontroller.git)
 [![](https://img.shields.io/badge/Programing-gitHub-white)](https://github.com/aKaReZa75/C_and_CPP) 
@@ -30,8 +28,7 @@ GitHub Repositories
 [![](https://img.shields.io/badge/Altium-Library-b59e64)](https://github.com/aKaReZa75/Altium-Library)
 [![](https://img.shields.io/badge/YouTube-Presentations-ff0033)](https://github.com/aKaReZa75/Presentations)
 
-Printed Circuit Board
--------------
+# Printed Circuit Board
 [![](https://img.shields.io/badge/PCB-Introduction-red)](https://youtu.be/XcGx8F-Pwc0)
 [![](https://img.shields.io/badge/PCB-Schematic-red)](https://youtu.be/hTGrnCFe-TQ)
 [![](https://img.shields.io/badge/PCB-PCB_Lyaers-red)](https://youtu.be/YPvdcqQbbiQ)
@@ -49,8 +46,7 @@ Printed Circuit Board
 [![](https://img.shields.io/badge/PCB-Library_PART_C-red)](https://youtu.be/aoqMTQX8EtM)
 [![](https://img.shields.io/badge/PCB-Library_PART_D-red)](https://youtu.be/wHq2v9WrjEQ)
 
-MicroController
--------------
+# MicroController
 [![](https://img.shields.io/badge/uC-Introduction-orange)](https://youtu.be/Clsv0KyD4RM)
 [![](https://img.shields.io/badge/uC-Architecture-orange)](https://youtu.be/vrKq5oZxuT0)
 [![](https://img.shields.io/badge/uC-Requirement-orange)](https://youtu.be/GfvmpeDFT_o)
@@ -73,8 +69,7 @@ MicroController
 [![](https://img.shields.io/badge/uC-PMDC_Motor_PART_A-orange)](https://youtu.be/baebjz0w9KQ)
 [![](https://img.shields.io/badge/uC-PMDC_Motor_PART_B-orange)](https://youtu.be/Kle814RO_og)
 
-Programming
--------------
+# Programming
 [![](https://img.shields.io/badge/Programing-VsCode-white)](https://youtu.be/pgIYUdyb7S8)
 [![](https://img.shields.io/badge/Programing-Git_PARTA-white)](https://youtu.be/BsykgHpmUt8)
 [![](https://img.shields.io/badge/Programing-C_Introduction-white)](https://youtu.be/O0GhZzvmRa0)
@@ -85,8 +80,7 @@ Programming
 [![](https://img.shields.io/badge/Programing-C_Part_F-white)](https://youtu.be/PXjPgKfcBfs)
 [![](https://img.shields.io/badge/Programing-Numbers-white)](https://youtu.be/Jierza_sBS0)
 
-AVR
--------------
+# AVR
 [![](https://img.shields.io/badge/AVR-Introduction-brown)](https://youtu.be/MzOPimZQYaU)
 [![](https://img.shields.io/badge/AVR-fuseBits-brown)](https://youtu.be/fGsOeDv1-gI)
 [![](https://img.shields.io/badge/AVR-GPIO_Part_A-brown)](https://youtu.be/_0uQSh0qBBo)
@@ -102,8 +96,7 @@ AVR
 [![](https://img.shields.io/badge/AVR-Communication,_USART_Part_B-brown)](https://youtu.be/HWJqS9NjYIA)
 [![](https://img.shields.io/badge/AVR-Analog,_ADC-brown)](https://youtu.be/SJJGwX5tNis)
 
-Simulation
--------------
+# Simulation
 [![](https://img.shields.io/badge/Sim-Introduction-pink)](https://youtu.be/VqN2q2Agd-M)
 [![](https://img.shields.io/badge/Proteus-DC_Analysis-pink)](https://youtu.be/DNlR-f8oeuQ)
 [![](https://img.shields.io/badge/Proteus-Transient_AC_Analysis-pink)](https://youtu.be/yoHRWpZNOko)
@@ -111,8 +104,7 @@ Simulation
 [![](https://img.shields.io/badge/TINA-Fast_and_Easy-pink)](https://youtu.be/6yHGW2FJB5s)
 [![](https://img.shields.io/badge/MultiSim-Fast_and_Easy-pink)](https://youtu.be/FBaFGeCysRk)
 
-Repair
--------------
+# Repair
 [![](https://img.shields.io/badge/Repair-VC97-Green)](https://youtu.be/h5BaUcLpn8E)
 [![](https://img.shields.io/badge/Repair-LED_Bulb-Green)](https://youtu.be/wHrkd33FlMY)
 [![](https://img.shields.io/badge/Repair-VC97_EEPROM_IC-Green)](https://youtu.be/gtcGRJrS7b0)
@@ -120,8 +112,7 @@ Repair
 [![](https://img.shields.io/badge/Repair-Arduino_7Segment_Shield_Soldering-Green)](https://youtu.be/1Rpm_uHoqAg)
 [![](https://img.shields.io/badge/Repair-USB_to_TTL_Soldering-Green)](https://youtu.be/JnmfULXj2iA)
 
-RCS-AVR
--------------
+# RCS-AVR
 [![](https://img.shields.io/badge/RCS-AVR,PART_A-violet)](https://youtu.be/KLH8E3yOOMw)
 [![](https://img.shields.io/badge/RCS-AVR,PART_B-violet)](https://youtu.be/-EyT4b3-hQU)
 [![](https://img.shields.io/badge/RCS-AVR,PART_C-violet)](https://youtu.be/bh53Z6KH728)
@@ -131,8 +122,7 @@ RCS-AVR
 [![](https://img.shields.io/badge/RCS-AVR,PART_G-violet)](https://youtu.be/6VrP90s_HFc)
 [![](https://img.shields.io/badge/RCS-AVR,PART_H-violet)](https://youtu.be/ByZ2kSmf6VU)
 
-eBoards
--------------
+# eBoards
 [![](https://img.shields.io/badge/eBoard-7Segment_Shield_Part_A-yellow)](https://youtu.be/BtFFsqzkCSk)
 [![](https://img.shields.io/badge/eBoard-7Segment_Shield_Part_B-yellow)](https://youtu.be/yqlKacCi0RM)
 [![](https://img.shields.io/badge/eBoard-USB_to_TTL-yellow)](https://youtu.be/CHOmadm1B9U)
@@ -140,8 +130,7 @@ eBoards
 [![](https://img.shields.io/badge/eBoard-AVR,PART_B-yellow)](https://youtu.be/Ipy6SqzdZnI)
 [![](https://img.shields.io/badge/eBoard-AVR,PART_C-yellow)](https://youtu.be/WwyNDgpCwrc)
 
-Question & Answer
--------------
+# Question & Answer
 [![](https://img.shields.io/badge/Q&A-How_to_use_a_breadboard-blue)](https://youtu.be/7HrpzfcJx-o)
 [![](https://img.shields.io/badge/Q&A-How_to_Calculate_Sin_Cos_Tan_with_Basic_Calculators-blue)](https://youtu.be/gmzgSpdCs48)
 [![](https://img.shields.io/badge/Q&A-A4_led_matrix_layout_Speedrun_with_Altium-blue)](https://youtu.be/iv362fgxC1E)
@@ -149,14 +138,12 @@ Question & Answer
 [![](https://img.shields.io/badge/Q&A-Arduino_UNO_Auto_Reset_EN_Jumper-blue)](https://youtu.be/xZejI3MDGFw)
 [![](https://img.shields.io/badge/Q&A-How_to_use_a_perfBoard-blue)](https://youtu.be/qdKNEiFQEF8)
 
-Contents
--------------
+# Contents
 | Count Videos | Seconds  | Minutes | Hour-Min-Sec |
 |    :---:     |  :---:   |  :---:  |    :---:     |
 |      90      |  181432  |  3024   | 50 - 23 - 51 |
 
-Donations
--------------
+# Donations
 [Hami Bash](https://hamibash.com/aKaReZa75/ 'حامی من باش') 
 
 [Coffeete](https://www.coffeete.ir/aKaReZa75/ 'یک قهوه برام بخر') 
@@ -173,9 +160,9 @@ Donations
 | Mehrdad Ghasemi  | Mahmod Fakhri | MohamamdReza Beygi	| Mahdi Dadashi |
 | Khosro | Omid Mazarei | :---:      | :---:   |
 
-Contact Us
--------------
-[![](https://img.shields.io/badge/E-Mail-yellow)](mailto:aKaReZa75@gmail.com)
-[![](https://img.shields.io/badge/You-Tube-red)](https://www.youtube.com/@aKaReZa75)
-[![](https://img.shields.io/badge/Linked-in-blue)](https://www.linkedin.com/in/akareza75)
+# ✉️ Contact Me
+Feel free to reach out to me through any of the following platforms:
+- 📧 [Email: aKaReZa75@gmail.com](mailto:aKaReZa75@gmail.com)
+- 🎥 [YouTube: @aKaReZa75](https://www.youtube.com/@aKaReZa75)
+- 💼 [LinkedIn: @akareza75](https://www.linkedin.com/in/akareza75)
 
