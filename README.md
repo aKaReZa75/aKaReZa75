@@ -69,6 +69,7 @@
 [![](https://img.shields.io/badge/uC-PMDC_Motor_PART_A-orange)](https://youtu.be/baebjz0w9KQ)
 [![](https://img.shields.io/badge/uC-PMDC_Motor_PART_B-orange)](https://youtu.be/Kle814RO_og)
 [![](https://img.shields.io/badge/uC-Stepper_Motor-orange)](https://youtu.be/ws5ms61Bx-o)
+[![](https://img.shields.io/badge/uC-Servo_Motor-orange)](https://youtu.be/7y1G4hoaXaM)
 
 # Programming
 [![](https://img.shields.io/badge/Programing-VsCode-white)](https://youtu.be/pgIYUdyb7S8)
@@ -142,7 +143,7 @@
 # Contents
 | Count Videos | Seconds  | Minutes | Hour-Min-Sec |
 |    :---:     |  :---:   |  :---:  |    :---:     |
-|      91      |  185002  |  3083   | 51 - 23 - 21 |
+|      92      |  187569  |  3126   | 52 - 06 - 08 |
 
 # Donations
 [Hami Bash](https://hamibash.com/aKaReZa75/ 'حامی من باش') 
