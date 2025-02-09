@@ -20,9 +20,9 @@
 - [ATMEGA328 Educational Board](https://github.com/aKaReZa75/eBoard_ATMEGA328) 
 
 
-# MicroController
+# Microcontrollers
 ```plaintext
- Microcontrollers
+ Content
    ├── Fundamental
    │   ├── Architecture
    │   ├── Requirement
@@ -55,7 +55,8 @@
    ├── Motors 
    │   ├── PMDC
    │   ├── Stepper
-   │   └── ServoMotor  
+   │   └── ServoMotor
+   │   
    ├── AVR
    |   ├── Introduction
    │   ├── MinHardware
@@ -73,14 +74,15 @@
    │        └── ADC
    │
    ├── STM32
+   │   
    └── ESP8266
        ├── MinHardware
        └── Pin Description   
 ```
 
-# Printed Circuit Board
+# Electronics and PCB Design
 ```plaintext
-Electronics and PCB Design
+Content
  ├── PCB Design
  │   ├── Introduction
  │   ├── Schematic
@@ -108,9 +110,9 @@ Electronics and PCB Design
      └── Repair    
 ```
 
-# Programming
+# Programming Languages
 ```plaintext
-Programming Languages
+Content
  ├── Fundamental
  │   ├── Base Conversions (Decimal, Binary, Octal, Hexadecimal)
  │   ├── Number Storage in Memory
@@ -139,15 +141,15 @@ Programming Languages
      └── Basic Commands (e.g., clone, add, commit, push, pull)
 ```
 
-# RCS-AVR
+# Projects
 ```plaintext
- Projects
+ Content
   └── RCS-AVR
 ```
 
-# eBoards
+# Educational Boards
 ```plaintext
- Educational Boards
+ Content
   ├── Header Boards
   │   └── ATMEGA328 
   │ 
