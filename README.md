@@ -1,158 +1,183 @@
+> [!CAUTION]
+> This document is currently being written and has not been completed yet.
+
+
 # 👋🏽 Hi there, I'm aKaReZa 👨🏽‍💻
+
 [![Watch the video](https://img.youtube.com/vi/UXCB329iN3c/hqdefault.jpg)](https://youtu.be/UXCB329iN3c)
 
-# YouTube PlayList
-[![](https://img.shields.io/badge/PCB-YouTube-red)](https://www.youtube.com/playlist?list=PLDdvbHxhit_W--r5IEt43l0Vvq7jrmNnc)
-[![](https://img.shields.io/badge/Microcontroller-YouTube-orange)](https://www.youtube.com/playlist?list=PLDdvbHxhit_X3Aj13pAqfhCX3Dn080p6r)
-[![](https://img.shields.io/badge/Programing-YouTube-white)](https://www.youtube.com/playlist?list=PLDdvbHxhit_W9vpcuL50-rDclk618TX1m)
-[![](https://img.shields.io/badge/AVR-YouTube-brown)](https://www.youtube.com/playlist?list=PLDdvbHxhit_Wx2JMPtw0zOPWzKg26iM7O)
-[![](https://img.shields.io/badge/Simulation-YouTube-pink)](https://www.youtube.com/playlist?list=PLDdvbHxhit_Vf8L-iqs1Ghmh3y3YMZl1j)
-[![](https://img.shields.io/badge/Repair-YouTube-green)](https://www.youtube.com/playlist?list=PLDdvbHxhit_V9iBONUs84wzHkYQkxk7gm)
-[![](https://img.shields.io/badge/RCS_AVR-YouTube-violet)](https://www.youtube.com/playlist?list=PLDdvbHxhit_UYraCCA2tRs6xpqUhtd8Zg)
-[![](https://img.shields.io/badge/eBoard-YouTube-yellow)](https://www.youtube.com/playlist?list=PLDdvbHxhit_XsvGOOmd2-cH1WSvNO1YPF)
-[![](https://img.shields.io/badge/Question&Answer-YouTube-blue)](https://www.youtube.com/playlist?list=PLDdvbHxhit_UshAdCjgSqWPBRVwbOWHef)
+# General Stats
+<table>
+  <tr>
+    <!-- GitHub Stats -->
+    <td align="center" valign="middle" style="padding: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=aKaReZa75&theme=dark&show_icons=true&count_private=true&hide_rank=true" />
+    </td>
+    <!-- Star History -->
+    <td align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=aKaReZa75&row=2&column=4&theme=darkhub"/>
+    </td>
+  </tr>
+</table>
 
-
-# GitHub Repositories
-[![](https://img.shields.io/badge/PCB-gitHub-red)](https://github.com/aKaReZa75/PCB)
-[![](https://img.shields.io/badge/Microcontroller-gitHub-orange)](https://github.com/aKaReZa75/Microcontroller.git)
-[![](https://img.shields.io/badge/Programing-gitHub-white)](https://github.com/aKaReZa75/C_and_CPP) 
-[![](https://img.shields.io/badge/AVR-gitHub-brown)](https://github.com/aKaReZa75/AVR) 
-[![](https://img.shields.io/badge/STM32-gitHub-yellow)](https://github.com/aKaReZa75/STM32) 
-[![](https://img.shields.io/badge/Simulation-gitHub-pink)](https://github.com/aKaReZa75/Simulation)
-[![](https://img.shields.io/badge/Repair-gitGub-green)](https://github.com/aKaReZa75/Repair)
-[![](https://img.shields.io/badge/RCS_AVR-gitHub-violet)](https://github.com/aKaReZa75/RCS_AVR)
-[![](https://img.shields.io/badge/eBoard-gitHub-yellow)](https://github.com/aKaReZa75/Educational_Boards)
-[![](https://img.shields.io/badge/Question&Answer-gitHub-blue)](https://github.com/aKaReZa75/Question_and_Answer)
-[![](https://img.shields.io/badge/ESP8266-gitHub-2cabe1)](https://github.com/aKaReZa75/ESP8266)
-[![](https://img.shields.io/badge/Altium-Library-b59e64)](https://github.com/aKaReZa75/Altium-Library)
-[![](https://img.shields.io/badge/YouTube-Presentations-ff0033)](https://github.com/aKaReZa75/Presentations)
-
-# Printed Circuit Board
-[![](https://img.shields.io/badge/PCB-Introduction-red)](https://youtu.be/XcGx8F-Pwc0)
-[![](https://img.shields.io/badge/PCB-Schematic-red)](https://youtu.be/hTGrnCFe-TQ)
-[![](https://img.shields.io/badge/PCB-PCB_Lyaers-red)](https://youtu.be/YPvdcqQbbiQ)
-[![](https://img.shields.io/badge/PCB-Trace_Properties-red)](https://youtu.be/hNCFRN08QaA)
-[![](https://img.shields.io/badge/PCB-Driving_GPIO_output_pins-red)](https://youtu.be/3z51BFROeN8)
-[![](https://img.shields.io/badge/PCB-7Segment_Shield_Part_A-red)](https://youtu.be/BtFFsqzkCSk)
-[![](https://img.shields.io/badge/PCB-7Segment_Shield_Part_B-red)](https://youtu.be/yqlKacCi0RM)
-[![](https://img.shields.io/badge/PCB-USB_to_TTL-red)](https://youtu.be/CHOmadm1B9U)
-[![](https://img.shields.io/badge/PCB-How_to_drive_a_Relay-red)](https://youtu.be/Cm22w3K2WrA)
-[![](https://img.shields.io/badge/PCB-Linear_Regulator-red)](https://youtu.be/eiynBFXXjeA)
-[![](https://img.shields.io/badge/PCB-Switching_Regulator-red)](https://youtu.be/GH5ICs1DhkY)
-[![](https://img.shields.io/badge/PCB-Switching_Enclosure_PART_A-red)](https://youtu.be/Ss4O40y-sWo)
-[![](https://img.shields.io/badge/PCB-Library_PART_A-red)](https://youtu.be/yt6wmXNhPHg)
-[![](https://img.shields.io/badge/PCB-Library_PART_B-red)](https://youtu.be/dTeTpMkixJI)
-[![](https://img.shields.io/badge/PCB-Library_PART_C-red)](https://youtu.be/aoqMTQX8EtM)
-[![](https://img.shields.io/badge/PCB-Library_PART_D-red)](https://youtu.be/wHq2v9WrjEQ)
-
-# MicroController
-[![](https://img.shields.io/badge/uC-Introduction-orange)](https://youtu.be/Clsv0KyD4RM)
-[![](https://img.shields.io/badge/uC-Architecture-orange)](https://youtu.be/vrKq5oZxuT0)
-[![](https://img.shields.io/badge/uC-Requirement-orange)](https://youtu.be/GfvmpeDFT_o)
-[![](https://img.shields.io/badge/uC-Basics-orange)](https://youtu.be/XhBq_QvCxYE)
-[![](https://img.shields.io/badge/uC-Oscillators-orange)](https://youtu.be/WPOZ_3E0mC8)
-[![](https://img.shields.io/badge/uC-GPIO_Part_A-orange)](https://youtu.be/_i_MXrbRf7o)
-[![](https://img.shields.io/badge/uC-GPIO_Part_B-orange)](https://youtu.be/QGhRRsIICUU)
-[![](https://img.shields.io/badge/uC-Assigning_value_to_a_register-orange)](https://youtu.be/kBbZi6WWGiM)
-[![](https://img.shields.io/badge/uC-Practical-orange)](https://youtu.be/5B_eDfAgxZU)
-[![](https://img.shields.io/badge/uC-Display-orange)](https://youtu.be/C2yjVLjOY4c)
-[![](https://img.shields.io/badge/uC-Arduino_BootLoader-orange)](https://youtu.be/zN1l83ps8rc)
-[![](https://img.shields.io/badge/uC-7Segments-orange)](https://youtu.be/ZmDLpSMhs-I)
-[![](https://img.shields.io/badge/uC-Alphanumeric_LCD-orange)](https://youtu.be/wq8CSptCZ9o)
-[![](https://img.shields.io/badge/uC-Interrupt-orange)](https://youtu.be/Zr2dET7aFKM)
-[![](https://img.shields.io/badge/uC-Timer_Counter-orange)](https://youtu.be/R8XcFXiZaRU)
-[![](https://img.shields.io/badge/uC-Communication_PART_A-orange)](https://youtu.be/CzTxCzfNQtw)
-[![](https://img.shields.io/badge/uC-Communication_PART_B-orange)](https://youtu.be/jNMS3Ukl_1E)
-[![](https://img.shields.io/badge/uC-Analog_Peripherals_PART_A-orange)](https://youtu.be/PrTcroT5kgM)
-[![](https://img.shields.io/badge/uC-Analog_Peripherals_PART_B-orange)](https://youtu.be/F_oOUHInUFk)
-[![](https://img.shields.io/badge/uC-PMDC_Motor_PART_A-orange)](https://youtu.be/baebjz0w9KQ)
-[![](https://img.shields.io/badge/uC-PMDC_Motor_PART_B-orange)](https://youtu.be/Kle814RO_og)
-[![](https://img.shields.io/badge/uC-Stepper_Motor-orange)](https://youtu.be/ws5ms61Bx-o)
-[![](https://img.shields.io/badge/uC-Servo_Motor-orange)](https://youtu.be/7y1G4hoaXaM)
-
-# Programming
-[![](https://img.shields.io/badge/Programing-VsCode-white)](https://youtu.be/pgIYUdyb7S8)
-[![](https://img.shields.io/badge/Programing-Git_PARTA-white)](https://youtu.be/BsykgHpmUt8)
-[![](https://img.shields.io/badge/Programing-C_Introduction-white)](https://youtu.be/O0GhZzvmRa0)
-[![](https://img.shields.io/badge/Programing-C_Part_B-white)](https://youtu.be/2EDKP_W_4Zc)
-[![](https://img.shields.io/badge/Programing-C_Part_C-white)](https://youtu.be/5tlieeXvTMY)
-[![](https://img.shields.io/badge/Programing-C_Part_D-white)](https://youtu.be/a7NB3CK2SJs)
-[![](https://img.shields.io/badge/Programing-C_Part_E-white)](https://youtu.be/1c4Gjq5hifw)
-[![](https://img.shields.io/badge/Programing-C_Part_F-white)](https://youtu.be/PXjPgKfcBfs)
-[![](https://img.shields.io/badge/Programing-Numbers-white)](https://youtu.be/Jierza_sBS0)
-
-# AVR
-[![](https://img.shields.io/badge/AVR-Introduction-brown)](https://youtu.be/MzOPimZQYaU)
-[![](https://img.shields.io/badge/AVR-fuseBits-brown)](https://youtu.be/fGsOeDv1-gI)
-[![](https://img.shields.io/badge/AVR-GPIO_Part_A-brown)](https://youtu.be/_0uQSh0qBBo)
-[![](https://img.shields.io/badge/AVR-Programing-brown)](https://youtu.be/Kn6aQvtuO08)
-[![](https://img.shields.io/badge/AVR-GPIO_Part_B-brown)](https://youtu.be/xa3nRQx28Nw)
-[![](https://img.shields.io/badge/AVR-7Segment_Part_A-brown)](https://youtu.be/HGlJtcpjZ-E)
-[![](https://img.shields.io/badge/AVR-7Segment_Part_B-brown)](https://youtu.be/_pwxBJ06aMk)
-[![](https://img.shields.io/badge/AVR-7Segment_Part_C-brown)](https://youtu.be/5OG6KQWCLCA)
-[![](https://img.shields.io/badge/AVR-External_Interrupts-brown)](https://youtu.be/eGV7mYVpWX4)
-[![](https://img.shields.io/badge/AVR-Alphanumeric_LCD-brown)](https://youtu.be/hNRjyU02NoM)
-[![](https://img.shields.io/badge/AVR-Timer_Accurate_Time,_Mode_1-brown)](https://youtu.be/J1_z-FngLbA)
-[![](https://img.shields.io/badge/AVR-Communication,_USART_Part_A-brown)](https://youtu.be/TJEfbymLoTs)
-[![](https://img.shields.io/badge/AVR-Communication,_USART_Part_B-brown)](https://youtu.be/HWJqS9NjYIA)
-[![](https://img.shields.io/badge/AVR-Analog,_ADC-brown)](https://youtu.be/SJJGwX5tNis)
-
-# Simulation
-[![](https://img.shields.io/badge/Sim-Introduction-pink)](https://youtu.be/VqN2q2Agd-M)
-[![](https://img.shields.io/badge/Proteus-DC_Analysis-pink)](https://youtu.be/DNlR-f8oeuQ)
-[![](https://img.shields.io/badge/Proteus-Transient_AC_Analysis-pink)](https://youtu.be/yoHRWpZNOko)
-[![](https://img.shields.io/badge/LTSpice-Fast_and_Easy-pink)](https://youtu.be/E33UTtZUTCQ)
-[![](https://img.shields.io/badge/TINA-Fast_and_Easy-pink)](https://youtu.be/6yHGW2FJB5s)
-[![](https://img.shields.io/badge/MultiSim-Fast_and_Easy-pink)](https://youtu.be/FBaFGeCysRk)
-
-# Repair
-[![](https://img.shields.io/badge/Repair-VC97-Green)](https://youtu.be/h5BaUcLpn8E)
-[![](https://img.shields.io/badge/Repair-LED_Bulb-Green)](https://youtu.be/wHrkd33FlMY)
-[![](https://img.shields.io/badge/Repair-VC97_EEPROM_IC-Green)](https://youtu.be/gtcGRJrS7b0)
-[![](https://img.shields.io/badge/Repair-Soldering_Tools-Green)](https://youtu.be/6Y1DflvL5zI)
-[![](https://img.shields.io/badge/Repair-Arduino_7Segment_Shield_Soldering-Green)](https://youtu.be/1Rpm_uHoqAg)
-[![](https://img.shields.io/badge/Repair-USB_to_TTL_Soldering-Green)](https://youtu.be/JnmfULXj2iA)
-
-# RCS-AVR
-[![](https://img.shields.io/badge/RCS-AVR,PART_A-violet)](https://youtu.be/KLH8E3yOOMw)
-[![](https://img.shields.io/badge/RCS-AVR,PART_B-violet)](https://youtu.be/-EyT4b3-hQU)
-[![](https://img.shields.io/badge/RCS-AVR,PART_C-violet)](https://youtu.be/bh53Z6KH728)
-[![](https://img.shields.io/badge/RCS-AVR,PART_D-violet)](https://youtu.be/vWiSh-8D4kY)
-[![](https://img.shields.io/badge/RCS-AVR,PART_E-violet)](https://youtu.be/V0r4XVZA-bk)
-[![](https://img.shields.io/badge/RCS-AVR,PART_F-violet)](https://youtu.be/U1JYVCcn27k)
-[![](https://img.shields.io/badge/RCS-AVR,PART_G-violet)](https://youtu.be/6VrP90s_HFc)
-[![](https://img.shields.io/badge/RCS-AVR,PART_H-violet)](https://youtu.be/ByZ2kSmf6VU)
-
-# eBoards
-[![](https://img.shields.io/badge/eBoard-7Segment_Shield_Part_A-yellow)](https://youtu.be/BtFFsqzkCSk)
-[![](https://img.shields.io/badge/eBoard-7Segment_Shield_Part_B-yellow)](https://youtu.be/yqlKacCi0RM)
-[![](https://img.shields.io/badge/eBoard-USB_to_TTL-yellow)](https://youtu.be/CHOmadm1B9U)
-[![](https://img.shields.io/badge/eBoard-AVR,PART_A-yellow)](https://youtu.be/-ttv7IQRaWA)
-[![](https://img.shields.io/badge/eBoard-AVR,PART_B-yellow)](https://youtu.be/Ipy6SqzdZnI)
-[![](https://img.shields.io/badge/eBoard-AVR,PART_C-yellow)](https://youtu.be/WwyNDgpCwrc)
-
-# Question & Answer
-[![](https://img.shields.io/badge/Q&A-How_to_use_a_breadboard-blue)](https://youtu.be/7HrpzfcJx-o)
-[![](https://img.shields.io/badge/Q&A-How_to_Calculate_Sin_Cos_Tan_with_Basic_Calculators-blue)](https://youtu.be/gmzgSpdCs48)
-[![](https://img.shields.io/badge/Q&A-A4_led_matrix_layout_Speedrun_with_Altium-blue)](https://youtu.be/iv362fgxC1E)
-[![](https://img.shields.io/badge/Q&A-The_best_way_to_manage_Electronics_Components_Inventory-blue)](https://youtu.be/F4Bge-_tUWE)
-[![](https://img.shields.io/badge/Q&A-Arduino_UNO_Auto_Reset_EN_Jumper-blue)](https://youtu.be/xZejI3MDGFw)
-[![](https://img.shields.io/badge/Q&A-How_to_use_a_perfBoard-blue)](https://youtu.be/qdKNEiFQEF8)
-
-# Contents
 | Count Videos | Seconds  | Minutes | Hour-Min-Sec |
 |    :---:     |  :---:   |  :---:  |    :---:     |
 |      92      |  187569  |  3126   | 52 - 06 - 08 |
 
+## Some of My Notable Projects:
+
+<p align="center">
+  <img src="https://api.star-history.com/svg?repos=aKaReZa75/RCS_AVR,aKaReZa75/Altium-Library,aKaReZa75/eBoard_ATMEGA328&type=Date&theme=dark">
+</p>
+
+- [Altium Deisgner Library](https://github.com/aKaReZa75/Altium-Library)  
+- [Relay Control with SMS using an AVR](https://github.com/aKaReZa75/RCS_AVR)  
+- [ATMEGA328 Educational Board](https://github.com/aKaReZa75/eBoard_ATMEGA328) 
+
+
+# Content
+
+```plaintext
+  Content
+  ├── Microcontrollers
+  |   ├── Fundamental
+  │   │   ├── Architecture
+  │   │   ├── Requirement
+  │   │   ├── Basics
+  │   │   ├── Oscillators
+  │   │   └── BootLoader
+  │   ├── General Purpose Input Output
+  │   │    ├── GPIO
+  │   │    └── External Interrupts
+  │   ├── Display Interfaces & Components
+  │   │    ├── 7-Segment Displays
+  │   │    └── Alphanumeric LCD
+  │   ├── Timer/Counter
+  │   │    ├── Timer
+  │   │    ├── Counter
+  │   │    ├── PWM  
+  │   │    ├── Capture   
+  │   │    ├── RTC
+  │   │    ├── WDT
+  │   │    └── Millis  
+  │   ├── Communication Protocols
+  │   │    ├── UART
+  │   │    ├── SPI
+  │   │    ├── I2C    
+  │   │    └── 1Wire
+  │   ├── Analog Peripherals 
+  │   │    ├── ADC
+  │   │    ├── DAC
+  │   │    └── Coperator   
+  │   ├── Motors 
+  │   │    ├── PMDC
+  │   │    ├── Stepper
+  │   │    └── ServoMotor  
+  │   ├── AVR
+  |   |   ├── Introduction
+  │   │   ├── MinHardware
+  │   │   ├── General Purpose Input Output
+  │   │   │    ├── GPIO
+  │   │   │    └── External Interrupts
+  │   │   ├── Display Interfaces & Components
+  │   │   │    ├── 7-Segment Displays
+  │   │   │    └── Alphanumeric LCD
+  │   │   ├── Timer/Counter
+  │   │   │    └── Timer
+  │   │   ├── Communication Protocols
+  │   │   │    └── UART
+  │   │   └── Analog Peripherals 
+  │   │        └── ADC
+  │   ├── STM32
+  │   └── ESP8266
+  |       ├── MinHardware
+  │       └── Pin Description   
+  |
+  ├── Electronics and PCB Design
+  │   ├── PCB Design
+  │   │   ├── Introduction
+  │   │   ├── Schematic
+  │   │   ├── PCB Layers
+  │   │   ├── Trace Properties
+  │   │   ├── Enclosure Design
+  │   │   └── Altium Library
+  │   ├── Electornics
+  │   │   ├── Output Driving
+  │   │   ├── Relay Driving
+  │   │   ├── Linear Regulator
+  │   │   └── Swiching Regulator 
+  │   ├── Simulation
+  │   │   ├── Introduction
+  │   │   ├── Proteus
+  │   │   ├── LTSpice
+  │   │   ├── TINA 
+  │   │   └── MultiSim 
+  │   └── Repair
+  │       ├── Tools
+  │       ├── Soldering
+  │       └── Repair    
+  │
+  ├── Projects
+  │   └── RCS-AVR
+  │
+  ├── Educational Boards
+  │   ├── Header Boards
+  │   │   └── ATMEGA328 
+  │   ├── Shields
+  │   │   └── 7Segments & Oled
+  │   └── Tools
+  │       └── USB to TTL
+  |
+  ├── Programming Languages
+  │   ├── Fundamental
+  │   │   ├── Base Conversions (Decimal, Binary, Octal, Hexadecimal)
+  │   │   ├── Number Storage in Memory
+  │   │   └── Floating-Point Numbers (IEEE 754)
+  │   ├── Embedded C
+  │   │   ├── Introduction
+  │   │   ├── Variables and Data Types
+  │   │   ├── Arrays & Strings
+  │   │   ├── Structures & Unions & Enumerations & Bit Fields
+  │   │   ├── Operators & Expressions
+  │   │   ├── Conditional Statements (if, switch, ternary)
+  │   │   ├── Looping Constructs (do-while, while, for)
+  │   │   ├── Preprocessors & Header Guards & Comments
+  │   │   ├── Type Casting    
+  │   │   ├── Functions
+  │   │   ├──  Escape Sequences
+  │   │   ├── Pointers & Memory Addressing
+  │   │   ├── Control Structures 
+  │   │   └── Structures and Unions
+  │   └── Git
+  │       ├── Introduction
+  │       ├── Installing and Setting Up Git
+  │       └── Basic Commands (e.g., clone, add, commit, push, pull)
+  |
+  └── Question & Answer / Troubleshooting
+```
+
+# MicroController
+## AVR
+
+# Printed Circuit Board
+
+# Programming
+
+# Simulation
+
+# Repair
+
+# RCS-AVR
+
+# eBoards
+
+# Question & Answer
+
 # Donations
-[Hami Bash](https://hamibash.com/aKaReZa75/ 'حامی من باش') 
-
-[Coffeete](https://www.coffeete.ir/aKaReZa75/ 'یک قهوه برام بخر') 
-
-[Crypto](https://nowpayments.io/donation/aKaReZa75/ 'حمایت از طریق رمز ارز') 
-
-[Dollar](https://nowpayments.io/pos-terminal/akareza75/ 'حمایت از طریق دلار') 
+[Hami Bash](https://hamibash.com/aKaReZa75/ 'حامی من باش')   
+[Coffeete](https://www.coffeete.ir/aKaReZa75/ 'یک قهوه برام بخر')   
+[Crypto](https://nowpayments.io/donation/aKaReZa75/ 'حمایت از طریق رمز ارز')    
+[Dollar](https://nowpayments.io/pos-terminal/akareza75/ 'حمایت از طریق دلار')   
 
 | Siroos Hemmati  | Ali Padash | Pouriya MotiePour | Masoud RadFar |
 | :---:   | :---:     | :---:      | :---:   |
@@ -167,4 +192,3 @@ Feel free to reach out to me through any of the following platforms:
 - 📧 [Email: aKaReZa75@gmail.com](mailto:aKaReZa75@gmail.com)
 - 🎥 [YouTube: @aKaReZa75](https://www.youtube.com/@aKaReZa75)
 - 💼 [LinkedIn: @akareza75](https://www.linkedin.com/in/akareza75)
-
