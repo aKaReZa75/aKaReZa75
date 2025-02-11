@@ -2,8 +2,20 @@
 > This document is currently being written and has not been completed yet.
 
 # 👋🏽 Hi there, I'm aKaReZa 👨🏽‍💻
+I am an electrical engineer with expertise in designing, programming, assembling, troubleshooting, and repairing electronic circuits. I am passionate about learning new things, sharing knowledge with others, and collaborating in teams to tackle challenges and achieve common goals.  
 
-[![Watch the video](https://img.youtube.com/vi/UXCB329iN3c/hqdefault.jpg)](https://youtu.be/UXCB329iN3c)
+During my academic journey, I ranked first among all Master's and Bachelor's students in the Department of Electrical and Electronics Engineering and had the opportunity to participate in international robotics competitions. I have also contributed to several successful projects and research initiatives, leading to the development of a knowledge-based product.  
+
+Beyond my professional work, I enjoy reading, music, cycling, and mountaineering, as I believe these activities help keep my mind open and fuel my creativity.
+
+For an introduction to the training content and the educational approach of my channel, watch the video below:
+
+
+<p align="center">
+  <a href="https://youtu.be/UXCB329iN3c">
+    <img src="https://img.youtube.com/vi/UXCB329iN3c/0.jpg" alt="Watch Video" width="500">
+  </a>
+</p>
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=aKaReZa75&theme=darkhub"/>
@@ -18,7 +30,6 @@
 - [Altium Deisgner Library](https://github.com/aKaReZa75/Altium-Library)  
 - [Relay Control with SMS using an AVR](https://github.com/aKaReZa75/RCS_AVR)  
 - [ATMEGA328 Educational Board](https://github.com/aKaReZa75/eBoard_ATMEGA328) 
-
 
 # Microcontrollers
 ```plaintext
