@@ -147,6 +147,23 @@ Content
      ├── Soldering
      └── Repair    
 ```
+- [PCB Design & Electronics](https://github.com/aKaReZa75/PCB)  
+    ---  
+    This repository contains a comprehensive collection of resources focused on PCB design and electronics. It covers the entire process from schematic design to layout, including essential topics such as trace properties, PCB layers, and enclosure design.   
+    Whether you're designing your first PCB or refining your skills, this section provides valuable insights to improve your workflow and understanding of electronics design.
+
+- [Simulation](https://github.com/aKaReZa75/Simulation)  
+    ---  
+    This repository offers in-depth materials on circuit simulation tools, such as **Proteus**, **LTSpice**, **TINA**, and **MultiSim**.    
+    It provides resources to help you simulate and analyze electronic circuits before physical implementation, making it an essential tool for circuit design and troubleshooting.    
+    By using these simulation tools, you'll gain valuable experience in analyzing circuit behavior and optimizing designs.
+
+- [Repair](https://github.com/aKaReZa75/Repair)  
+    ---  
+    This repository focuses on electronics repair techniques, including soldering and troubleshooting. 
+    You’ll find useful guides and resources on common repair tools, techniques, and how to diagnose and fix faulty circuits.    
+    Whether you're looking to repair a broken PCB or learn more about soldering, this section will provide the practical skills and knowledge needed to handle electronics repairs with confidence.
+
 
 # Programming Languages
 The **Programming Languages** section is designed to help you master programming across various languages, with a focus on both the foundational concepts shared between them and the unique features of each.   
@@ -178,6 +195,13 @@ Content
      ├── Installing and Setting Up Git
      └── Basic Commands (e.g., clone, add, commit, push, pull)
 ```
+- **[Embedded C](https://github.com/aKaReZa75/Embedded-C)**  
+    ---  
+    This repository provides comprehensive resources for learning **Embedded C programming**, covering everything from basic **C syntax** to advanced topics like **memory management**, **conditional statements**, and hardware interaction. It's perfect for anyone interested in programming for embedded systems and microcontrollers.
+
+- **[Git](https://github.com/aKaReZa75/Git)**  
+    ---  
+    This repository offers guides to mastering **Git** and **GitHub**, including topics like **repository management**, **branching**, and **commit history**. It's a great resource for enhancing your skills in version control and collaborating on coding projects.
 
 # Projects
 The **Projects** section focuses on end-to-end development of embedded systems and electronics projects.   
@@ -188,6 +212,10 @@ Each project is a hands-on journey that provides practical experience in transfo
  Content
   └── RCS-AVR
 ```
+- **[Relay Control with SMS using an AVR microcontroller](https://github.com/aKaReZa75/RCS_AVR)**  
+    ---  
+    This project demonstrates how to use an AVR microcontroller to control relays via SMS. It covers the essentials of embedded programming, communication protocols, and real-world applications of microcontroller-based systems.
+
 
 # Educational Boards
 The **Educational Boards** section features a collection of custom-designed hardware, developed from scratch to improve your skills in both design and hands-on application.   
@@ -213,6 +241,19 @@ By working with these boards, you'll be able to learn not just theory but also a
   └── Tools
       └── USB to TTL
 ```
+- **[ATMEGA328](https://github.com/aKaReZa75/eBoard_ATMEGA328)**  
+    ---  
+    This board is designed based on the Arduino pinout, making it easy to interface with a wide range of existing shields. It provides a solid foundation for learning microcontroller programming, specifically using the ATMEGA328 microcontroller.
+
+- **[7Segments & Oled](https://github.com/aKaReZa75/eBoard_7Segments)**  
+    ---  
+    This shield helps you easily interface with peripherals, allowing you to set up **GPIO** for both input and output, as well as **I2C** communication. You'll also learn how to drive **7-segment displays** and **RGB** LEDs, providing hands-on experience with display control and peripheral integration.
+
+- **[USB to TTL](https://github.com/aKaReZa75/eBoard_USBtoTTL)**  
+    ---  
+    A useful tool for bridging communication between your microcontroller and computer for programming, debugging, and serial communication.
+
+
 
 # Question & Answer
 The **Question & Answer** section is a dedicated space for users to ask questions that don't fit into the specific categories covered in other sections. If you have any doubts or need clarification on topics related to microcontrollers, electronics, PCB design, programming, or any other area not specifically addressed, feel free to post your questions here. 
@@ -220,6 +261,10 @@ The **Question & Answer** section is a dedicated space for users to ask question
   Content
   └── Question & Answer / Troubleshooting
 ```
+- **[Question & Answer](https://github.com/aKaReZa75/Question_and_Answer)**  
+    ---  
+    If you have any questions that don't fit into the categories covered in the previous sections, feel free to ask them here. This space is dedicated to addressing topics or issues that don't neatly fall into the other areas. If possible, I’ll respond with a text answer, but if the question requires more explanation, I'll try to create a dedicated video response for you.
+
 
 # Donations
 [Hami Bash](https://hamibash.com/aKaReZa75/ 'حامی من باش')   
