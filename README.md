@@ -265,12 +265,28 @@ The **Question & Answer** section is a dedicated space for users to ask question
     ---  
     If you have any questions that don't fit into the categories covered in the previous sections, feel free to ask them here. This space is dedicated to addressing topics or issues that don't neatly fall into the other areas. If possible, I’ll respond with a text answer, but if the question requires more explanation, I'll try to create a dedicated video response for you.
 
-
 # Donations
-[Hami Bash](https://hamibash.com/aKaReZa75/ 'حامی من باش')   
-[Coffeete](https://www.coffeete.ir/aKaReZa75/ 'یک قهوه برام بخر')   
-[Crypto](https://nowpayments.io/donation/aKaReZa75/ 'حمایت از طریق رمز ارز')    
-[Dollar](https://nowpayments.io/pos-terminal/akareza75/ 'حمایت از طریق دلار')   
+If you find the content helpful and want to show your support, there are several ways you can contribute to keep the projects running. Every contribution, big or small, makes a difference and is greatly appreciated.
+
+- **[Hami Bash](https://hamibash.com/aKaReZa75/ 'حامی من باش')**  
+    ---  
+    Support me through the **Hami Bash** platform to help fund future content and projects. Your contribution helps me maintain and expand the resources available for learning.
+
+- **[Coffeete](https://www.coffeete.ir/aKaReZa75/ 'یک قهوه برام بخر')**  
+    ---  
+    Buy me a coffee! A simple and fun way to show your appreciation. Every "coffee" goes towards improving the quality of the content and resources.
+
+- **[Crypto](https://nowpayments.io/donation/aKaReZa75/ 'حمایت از طریق رمز ارز')**  
+    ---  
+    Prefer to donate using cryptocurrency? You can support through various crypto options. Every donation helps sustain my work in creating more educational content.
+
+- **[Dollar](https://nowpayments.io/pos-terminal/akareza75/ 'حمایت از طریق دلار')**  
+    ---  
+    Make a donation in dollars using this link. It’s a convenient way to support my projects and help further the educational goals of this platform.
+
+## Special Thanks to My Supporters
+I would like to express my deepest gratitude to the individuals who have generously supported this platform. Their contributions allow me to continue creating valuable educational resources.   
+Here’s a list of amazing people who have supported me:
 
 | Siroos Hemmati  | Ali Padash | Pouriya MotiePour | Masoud RadFar |
 | :---:   | :---:     | :---:      | :---:   |
