@@ -5,6 +5,27 @@ During my academic journey, I ranked first among all Master's and Bachelor's stu
 
 Beyond my professional work, I enjoy reading, music, cycling, and mountaineering, as I believe these activities help keep my mind open and fuel my creativity.
 
+## 🌐 Connect with Me 
+
+Stay connected and updated with my latest content, projects, and updates! Feel free to reach out to me through any of the following channels:
+
+- ✉️ **Email**   
+    [Email me here](mailto:akaReza75@gmail.com) for inquiries, suggestions, or collaboration opportunities.  
+
+- 🔗  **LinkedIn**  
+    Connect with me professionally on [LinkedIn](https://www.linkedin.com/in/akareza75/). Let’s network and share knowledge!  
+
+- 🎥  **YouTube**  
+    Check out my [YouTube channel](https://www.youtube.com/@aKaReZa75) for tutorials, project walkthroughs, and more educational videos. Don't forget to subscribe!  
+
+- 📱 **Telegram**   
+    Join my [Telegram group](https://t.me/aKaReZa75) to stay up-to-date with the latest news, tips, and exclusive content. Feel free to chat and ask questions!  
+
+- 📸 **Instagram**  
+    Follow me on [Instagram](https://www.instagram.com/akareza75/) for behind-the-scenes updates, project previews, and some fun tech posts!  
+
+---
+
 For an introduction to the training content and the educational approach of my channel, watch the video below:
 
 
@@ -18,7 +39,7 @@ For an introduction to the training content and the educational approach of my c
     <img src="https://github-profile-trophy.vercel.app/?username=aKaReZa75&theme=darkhub"/>
 </p>
 
-## Some of My Notable Projects:
+## 🏆 Some of My Notable Projects:
 
 <p align="center">
   <img src="https://api.star-history.com/svg?repos=aKaReZa75/RCS_AVR,aKaReZa75/Altium-Library,aKaReZa75/eBoard_ATMEGA328&type=Date&theme=dark">
@@ -28,7 +49,7 @@ For an introduction to the training content and the educational approach of my c
 - [Relay Control with SMS using an AVR](https://github.com/aKaReZa75/RCS_AVR)  
 - [ATMEGA328 Educational Board](https://github.com/aKaReZa75/eBoard_ATMEGA328) 
 
-# Microcontrollers
+# 👾 Microcontrollers
 The **Microcontrollers** section is organized to help you explore the essential concepts and peripherals in microcontroller development.   
 It covers foundational topics like microcontroller architecture, basic operations, and peripheral functionalities, along with dedicated sections for popular microcontroller families such as AVR, STM32, and more.   
 Each subsection provides resources and explanations tailored to the specific features and hardware of these microcontroller families.
@@ -115,7 +136,7 @@ Each subsection provides resources and explanations tailored to the specific fea
     This repository contains a wide range of educational materials related to ESP8266 microcontrollers, covering essential topics such as programming, interfacing, and wireless communication.    
     It includes files, videos, and source codes aimed at providing a solid understanding of ESP8266 development.
 
-# Electronics and PCB Design
+# ⚡ Electronics and PCB Design
 The **Electronics and PCB Design** section offers comprehensive resources for learning both the theory and practice of electronics design. It covers essential topics such as electronics fundamentals, PCB design techniques, and simulation tools for circuit analysis.   
 You'll find in-depth tutorials on designing circuits and PCBs in **Altium**, as well as practical guidance on soldering and repair techniques.   
 This section is perfect for those looking to build a solid foundation in electronics design and improve their skills in circuit simulation, component driving, and PCB assembly.
@@ -165,7 +186,7 @@ Content
     Whether you're looking to repair a broken PCB or learn more about soldering, this section will provide the practical skills and knowledge needed to handle electronics repairs with confidence.
 
 
-# Programming Languages
+# 💻 Programming Languages
 The **Programming Languages** section is designed to help you master programming across various languages, with a focus on both the foundational concepts shared between them and the unique features of each.   
 You’ll learn core programming principles, such as number systems, memory management, and control structures, alongside specific techniques for embedded C and other languages.   
 Additionally, this section covers version control systems like Git and GitHub, which are essential tools for managing and collaborating on code.
@@ -203,7 +224,7 @@ Content
     ---  
     This repository offers guides to mastering **Git** and **GitHub**, including topics like **repository management**, **branching**, and **commit history**. It's a great resource for enhancing your skills in version control and collaborating on coding projects.
 
-# Projects
+# 🛠️ Projects
 The **Projects** section focuses on end-to-end development of embedded systems and electronics projects.   
 Here, we work on projects that take you from concept to final product, covering every stage of the process.  
 This includes conceptual design, component selection, electronic circuit design, PCB layout, enclosure design, sourcing parts and PCBs, assembly, testing, and development of the final product.    
@@ -217,7 +238,7 @@ Each project is a hands-on journey that provides practical experience in transfo
     This project demonstrates how to use an AVR microcontroller to control relays via SMS. It covers the essentials of embedded programming, communication protocols, and real-world applications of microcontroller-based systems.
 
 
-# Educational Boards
+# ⚙️ Educational Boards
 The **Educational Boards** section features a collection of custom-designed hardware, developed from scratch to improve your skills in both design and hands-on application.   
 The boards are divided into three categories:   
 1. **Microcontroller Boards**: These are the core development boards, like the **ATMEGA328 Header Board**, designed to give you a deep understanding of microcontroller fundamentals. These boards serve as the foundation for your embedded system projects and are ideal for learning microcontroller programming.
@@ -255,7 +276,7 @@ By working with these boards, you'll be able to learn not just theory but also a
 
 
 
-# Question & Answer
+# ❓ Question & Answer
 The **Question & Answer** section is a dedicated space for users to ask questions that don't fit into the specific categories covered in other sections. If you have any doubts or need clarification on topics related to microcontrollers, electronics, PCB design, programming, or any other area not specifically addressed, feel free to post your questions here. 
 ```plaintext
   Content
@@ -265,13 +286,15 @@ The **Question & Answer** section is a dedicated space for users to ask question
     ---  
     If you have any questions that don't fit into the categories covered in the previous sections, feel free to ask them here. This space is dedicated to addressing topics or issues that don't neatly fall into the other areas. If possible, I’ll respond with a text answer, but if the question requires more explanation, I'll try to create a dedicated video response for you.
 
-# Donations
+# 🙌 Donations
 If you find the content helpful and want to show your support, there are several ways you can contribute to keep the projects running. Every contribution, big or small, makes a difference and is greatly appreciated.
 
 - **[Hami Bash](https://hamibash.com/aKaReZa75/ 'حامی من باش')**  
     ---  
-    Support me through the **Hami Bash** platform to help fund future content and projects. Your contribution helps me maintain and expand the resources available for learning.
-
+    Support me through the **Hami Bash** platform to help fund future content and projects.    
+    It’s an easy process: simply choose the amount you’d like to contribute, and a payment gateway will appear for you to complete the donation using your bank card.    
+    Your contribution helps me maintain and expand the resources available for learning, ensuring that I can continue creating valuable content for everyone.
+    
 - **[Coffeete](https://www.coffeete.ir/aKaReZa75/ 'یک قهوه برام بخر')**  
     ---  
     Buy me a coffee! A simple and fun way to show your appreciation. Every "coffee" goes towards improving the quality of the content and resources.
@@ -284,7 +307,7 @@ If you find the content helpful and want to show your support, there are several
     ---  
     Make a donation in dollars using this link. It’s a convenient way to support my projects and help further the educational goals of this platform.
 
-## Special Thanks to My Supporters
+## 🌟 Special Thanks to My Supporters
 I would like to express my deepest gratitude to the individuals who have generously supported this platform. Their contributions allow me to continue creating valuable educational resources.   
 Here’s a list of amazing people who have supported me:
 
