@@ -1,6 +1,3 @@
-> [!CAUTION]
-> This document is currently being written and has not been completed yet.
-
 # 👋🏽 Hi there, I'm aKaReZa 👨🏽‍💻
 I am an electrical engineer with expertise in designing, programming, assembling, troubleshooting, and repairing electronic circuits. I am passionate about learning new things, sharing knowledge with others, and collaborating in teams to tackle challenges and achieve common goals.  
 
@@ -32,6 +29,9 @@ For an introduction to the training content and the educational approach of my c
 - [ATMEGA328 Educational Board](https://github.com/aKaReZa75/eBoard_ATMEGA328) 
 
 # Microcontrollers
+The **Microcontrollers** section is organized to help you explore the essential concepts and peripherals in microcontroller development.   
+It covers foundational topics like microcontroller architecture, basic operations, and peripheral functionalities, along with dedicated sections for popular microcontroller families such as AVR, STM32, and more.   
+Each subsection provides resources and explanations tailored to the specific features and hardware of these microcontroller families.
 ```plaintext
  Content
    ├── Fundamental
@@ -91,7 +91,34 @@ For an introduction to the training content and the educational approach of my c
        └── Pin Description   
 ```
 
+- [Microcontroller](https://github.com/aKaReZa75/Microcontroller)  
+    ---  
+    This repository contains a comprehensive collection of educational resources on microcontrollers, including files, videos, source codes, and more.   
+    The content is not limited to a specific microcontroller architecture but focuses on fundamental concepts and principles that apply universally across different microcontroller families.    
+    Whether you're working with AVR, ARM, PIC, or any other microcontroller, the materials provided here will help you build a strong foundation and enhance your understanding.
+
+- [AVR](https://github.com/aKaReZa75/AVR)  
+    ---  
+    This repository provides a structured collection of educational resources focused on AVR microcontrollers.   
+    Inside, you'll find files, videos, source codes, and other learning materials designed to cover key concepts applicable to all AVR-based systems.    
+    The content is not tied to a specific AVR model but rather explores universal principles that can be applied across different AVR series.    
+    Whether you're a beginner or an experienced developer, these resources will help you deepen your knowledge and improve your skills in AVR programming and development.
+    
+- [STM32](https://github.com/aKaReZa75/STM32)  
+    ---  
+    This repository serves as a comprehensive learning hub for STM32 microcontrollers, offering a well-organized collection of educational materials, including videos, source codes, and documentation.   
+    The focus is on core concepts and essential programming techniques that apply across various STM32 families rather than a single architecture.   
+    Whether you are exploring STM32 for embedded development or professional applications, these resources will help you build a strong foundation and enhance your expertise in working with STM32 microcontrollers.
+
+- [ESP8266](https://github.com/aKaReZa75/ESP8266)  
+    ---  
+    This repository contains a wide range of educational materials related to ESP8266 microcontrollers, covering essential topics such as programming, interfacing, and wireless communication.    
+    It includes files, videos, and source codes aimed at providing a solid understanding of ESP8266 development.
+
 # Electronics and PCB Design
+The **Electronics and PCB Design** section offers comprehensive resources for learning both the theory and practice of electronics design. It covers essential topics such as electronics fundamentals, PCB design techniques, and simulation tools for circuit analysis.   
+You'll find in-depth tutorials on designing circuits and PCBs in **Altium**, as well as practical guidance on soldering and repair techniques.   
+This section is perfect for those looking to build a solid foundation in electronics design and improve their skills in circuit simulation, component driving, and PCB assembly.
 ```plaintext
 Content
  ├── PCB Design
@@ -122,6 +149,9 @@ Content
 ```
 
 # Programming Languages
+The **Programming Languages** section is designed to help you master programming across various languages, with a focus on both the foundational concepts shared between them and the unique features of each.   
+You’ll learn core programming principles, such as number systems, memory management, and control structures, alongside specific techniques for embedded C and other languages.   
+Additionally, this section covers version control systems like Git and GitHub, which are essential tools for managing and collaborating on code.
 ```plaintext
 Content
  ├── Fundamental
@@ -143,9 +173,6 @@ Content
  │   ├──  Escape Sequences
  │   └── Pointers & Memory Addressing
  │ 
- ├── Control Structures 
- │   └── Structures and Unions
- │ 
  └── Git
      ├── Introduction
      ├── Installing and Setting Up Git
@@ -153,12 +180,28 @@ Content
 ```
 
 # Projects
+The **Projects** section focuses on end-to-end development of embedded systems and electronics projects.   
+Here, we work on projects that take you from concept to final product, covering every stage of the process.  
+This includes conceptual design, component selection, electronic circuit design, PCB layout, enclosure design, sourcing parts and PCBs, assembly, testing, and development of the final product.    
+Each project is a hands-on journey that provides practical experience in transforming an idea into a fully functional, real-world solution.    
 ```plaintext
  Content
   └── RCS-AVR
 ```
 
 # Educational Boards
+The **Educational Boards** section features a collection of custom-designed hardware, developed from scratch to improve your skills in both design and hands-on application.   
+The boards are divided into three categories:   
+1. **Microcontroller Boards**: These are the core development boards, like the **ATMEGA328 Header Board**, designed to give you a deep understanding of microcontroller fundamentals. These boards serve as the foundation for your embedded system projects and are ideal for learning microcontroller programming.
+
+2. **Shields**: These are extension boards that can be easily attached to the microcontroller boards and are designed to help you set up and test various microcontroller peripherals.   
+    - For example, the **7-Segment & OLED Shields** are used to interface with display components, allowing you to quickly set up and test various microcontroller peripherals such as GPIO, External Interrupts, and I2C. This helps you gain hands-on experience in configuring and working with these essential communication and control protocols.
+
+3. **Tools**: This category includes essential tools like the **USB to TTL adapter**, which bridges communication between your microcontroller and your computer.   
+These tools are crucial for establishing connections, uploading code, and debugging your projects.
+
+Each of these boards is designed from the ground up, which helps strengthen our design skills and ensures that you gain practical, real-world experience in microcontroller programming and electronics design.    
+By working with these boards, you'll be able to learn not just theory but also apply it directly to build functional, hands-on projects.
 ```plaintext
  Content
   ├── Header Boards
@@ -172,6 +215,7 @@ Content
 ```
 
 # Question & Answer
+The **Question & Answer** section is a dedicated space for users to ask questions that don't fit into the specific categories covered in other sections. If you have any doubts or need clarification on topics related to microcontrollers, electronics, PCB design, programming, or any other area not specifically addressed, feel free to post your questions here. 
 ```plaintext
   Content
   └── Question & Answer / Troubleshooting
