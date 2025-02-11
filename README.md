@@ -189,7 +189,7 @@ Content
 | Majid aRizehbandi	  | Ali Jafari | Mohammad Azizi | MohammadReza Manafi |
 | Abbas AghaJani  | Unknown2 | Quadro	| Mohammad Amini |
 | Mehrdad Ghasemi  | Mahmod Fakhri | MohamamdReza Beygi	| Mahdi Dadashi |
-| Khosro | Omid Mazarei | :---:      | :---:   |
+| Khosro | Omid Mazarei | Omid Molavi      | :---:   |
 
 # ✉️ Contact Me
 Feel free to reach out to me through any of the following platforms:
