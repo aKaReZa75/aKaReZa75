@@ -53,11 +53,11 @@ For an introduction to the training content and the educational approach of my c
 1. [👾 Microcontrollers](https://github.com/aKaReZa75#-microcontrollers)  
 2. [⚡ Electronics and PCB Design](https://github.com/aKaReZa75#-electronics-and-pcb-design)  
 3. [💻 Programming Languages](https://github.com/aKaReZa75#-programming-languages)  
-4. [🛠️ Projects](https://github.com/aKaReZa75#-projects)  
-5. [⚙️ Educational Boards](https://github.com/aKaReZa75#-educational-boards)  
+4. [🛠️ Projects](https://github.com/aKaReZa75#%EF%B8%8F-projects)  
+5. [⚙️ Educational Boards](https://github.com/aKaReZa75#%EF%B8%8F-educational-boards)  
 6. [❓ Question & Answer](https://github.com/aKaReZa75#-question--answer)  
 7. [🙌 Donations](https://github.com/aKaReZa75#-donations)  
-8. [✉️ Contact Me](https://github.com/aKaReZa75#contact-me)  
+8. [✉️ Contact Me](https://github.com/aKaReZa75#%EF%B8%8F-contact-me)  
 
 > [!NOTE]
 > The tree diagrams in each section represent the content provided within that section, which will be gradually expanded and made more comprehensive over time.
