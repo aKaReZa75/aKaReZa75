@@ -161,7 +161,8 @@ Content
  │   ├── PCB Layers
  │   ├── Trace Properties
  │   ├── Enclosure Design
- │   └── Altium Library
+ │   ├── Altium Library
+ │   └── Design Templates
  │
  ├── Electornics
  │   ├── Output Driving
@@ -185,6 +186,10 @@ Content
     ---  
     This repository contains a comprehensive collection of resources focused on PCB design and electronics. It covers the entire process from schematic design to layout, including essential topics such as trace properties, PCB layers, and enclosure design.   
     Whether you're designing your first PCB or refining your skills, this section provides valuable insights to improve your workflow and understanding of electronics design.
+
+- [Design Templates (Schematics)](https://github.com/aKaReZa75/Design_Template.git)  
+  ---  
+  A collection of **pre-designed and tested schematics** that you can directly copy and integrate into your projects. Since these schematics have been verified, you can use them with confidence without worrying about design flaws, saving time and effort in your development process.
 
 - [Simulation](https://github.com/aKaReZa75/Simulation)  
     ---  
