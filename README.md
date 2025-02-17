@@ -45,7 +45,8 @@ For an introduction to the training content and the educational approach of my c
   <img src="https://api.star-history.com/svg?repos=aKaReZa75/RCS_AVR,aKaReZa75/Altium-Library,aKaReZa75/eBoard_ATMEGA328&type=Date&theme=dark">
 </p>
 
-- [Altium Deisgner Library](https://github.com/aKaReZa75/Altium-Library)  
+- [Altium Deisgner Library](https://github.com/aKaReZa75/Altium-Library)
+- [Altium Design Templates](https://github.com/aKaReZa75/Design_Template.git)      
 - [Relay Control with SMS using an AVR](https://github.com/aKaReZa75/RCS_AVR)  
 - [ATMEGA328 Educational Board](https://github.com/aKaReZa75/eBoard_ATMEGA328) 
 
