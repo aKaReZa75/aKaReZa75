@@ -96,7 +96,7 @@ Each subsection provides resources and explanations tailored to the specific fea
    ├── Analog Peripherals 
    │   ├── ADC
    │   ├── DAC
-   │   └── Coperator   
+   │   └── Comparator   
    ├── Motors 
    │   ├── PMDC
    │   ├── Stepper
