@@ -42,7 +42,7 @@ For an introduction to the training content and the educational approach of my c
 ## 🏆 Some of My Notable Projects:
 
 <p align="center">
-  <img src="https://api.star-history.com/svg?repos=aKaReZa75/RCS_AVR,aKaReZa75/Altium-Library,aKaReZa75/eBoard_ATMEGA328&type=Date&theme=dark">
+  <img src="https://api.star-history.com/svg?repos=aKaReZa75/RCS_AVR,aKaReZa75/Altium-Library,aKaReZa75/eBoard_ATMEGA328,aKaReZa75/Design_Template&type=Date&theme=dark">
 </p>
 
 - [Altium Deisgner Library](https://github.com/aKaReZa75/Altium-Library)
