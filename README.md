@@ -163,6 +163,7 @@ Content
  │   ├── Trace Properties
  │   ├── Enclosure Design
  │   ├── Altium Library
+ │   ├── PCB Rules
  │   └── Design Templates
  │
  ├── Electornics
