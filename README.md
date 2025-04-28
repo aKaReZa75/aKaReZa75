@@ -24,20 +24,47 @@ Stay connected and updated with my latest content, projects, and updates! Feel f
 - 📸 **Instagram**  
     Follow me on [Instagram](https://www.instagram.com/akareza75/) for behind-the-scenes updates, project previews, and some fun tech posts!  
 
----
+<table style="border-collapse: collapse;">
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/UXCB329iN3c">aKaReZa - Introduction</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        For an introduction to the training content and the educational approach of my channel, watch the video below:
+      </p>
+    </td>
+    <td width="360" valign="top">
+      <a href="https://youtu.be/UXCB329iN3c">
+        <img src="https://img.youtube.com/vi/UXCB329iN3c/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa - Introduction"/>
+      </a>
+    </td>
+  </tr>
 
-For an introduction to the training content and the educational approach of my channel, watch the video below:
 
-
-<p align="center">
-  <a href="https://youtu.be/UXCB329iN3c">
-    <img src="https://img.youtube.com/vi/UXCB329iN3c/0.jpg" alt="Watch Video" width="500">
-  </a>
-</p>
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=aKaReZa75&theme=darkhub"/>
-</p>
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/zYiUItVFRqQ">aKaReZa 95 - Programming, Git - PART B</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        If you're looking to better understand how to navigate and use my GitHub repositories — including exploring their structure, downloading or cloning projects, submitting issues, and asking questions,  
+        everything you need is clearly explained in this video:  
+        Make sure to check it out!
+      </p>
+    </td>
+    <td width="360" valign="top">
+      <a href="https://youtu.be/zYiUItVFRqQ">
+        <img src="https://img.youtube.com/vi/zYiUItVFRqQ/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 95 - Programming, Git - PART B"/>
+      </a>
+    </td>
+  </tr>
+  
+</table>
 
 ## 🏆 Some of My Notable Projects:
 
