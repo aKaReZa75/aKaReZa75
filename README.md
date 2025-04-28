@@ -51,7 +51,7 @@ Stay connected and updated with my latest content, projects, and updates! Feel f
       </h3>
       <p style="margin: 8px 0 0;">
         If you're looking to better understand how to navigate and use my GitHub repositories — including exploring their structure, downloading or cloning projects, submitting issues, and asking questions,  
-        everything you need is clearly explained in this video:  
+        everything you need is clearly explained in this video:   
         Make sure to check it out!
       </p>
     </td>
