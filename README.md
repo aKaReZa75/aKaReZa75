@@ -65,7 +65,7 @@ Stay connected and updated with my latest content, projects, and updates! Feel f
   </tr>
 
   <tr>
-      <td colspan="2" >
+      <td colspan="2" align ="center" >
       <a href="https://youtu.be/zYiUItVFRqQ">
         <img src="https://github-profile-trophy.vercel.app/?username=aKaReZa75&theme=darkhub"/>
       </a>
