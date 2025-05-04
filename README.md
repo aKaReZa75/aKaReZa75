@@ -63,8 +63,16 @@ Stay connected and updated with my latest content, projects, and updates! Feel f
       </a>
     </td>
   </tr>
+
+  <tr>
+      <td colspan="2" >
+      <a href="https://youtu.be/zYiUItVFRqQ">
+        <img src="https://github-profile-trophy.vercel.app/?username=aKaReZa75&theme=darkhub"/>
+      </a>
+    </td>
+  </tr>
   
-</table>
+</table> 
 
 ## 🏆 Some of My Notable Projects:
 
