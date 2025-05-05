@@ -19,7 +19,7 @@ Stay connected and updated with my latest content, projects, and updates! Feel f
     Check out my [YouTube channel](https://www.youtube.com/@aKaReZa75) for tutorials, project walkthroughs, and more educational videos. Don't forget to subscribe!  
 
 - 📱 **Telegram**   
-    Join my [Telegram group](https://t.me/aKaReZa75) to stay up-to-date with the latest news, tips, and exclusive content. Feel free to chat and ask questions!  
+    Join my [Telegram Channel](https://t.me/aKaReZa75) to stay up-to-date with the latest news, tips, and exclusive content. Feel free to chat and ask questions!  
 
 - 📸 **Instagram**  
     Follow me on [Instagram](https://www.instagram.com/akareza75/) for behind-the-scenes updates, project previews, and some fun tech posts!  
@@ -373,7 +373,8 @@ Here’s a list of amazing people who have supported me:
 | Majid aRizehbandi	  | Ali Jafari | Mohammad Azizi | MohammadReza Manafi |
 | Abbas AghaJani  | Unknown2 | Quadro	| Mohammad Amini |
 | Mehrdad Ghasemi  | Mahmod Fakhri | MohamamdReza Beygi	| Mahdi Dadashi |
-| Khosro | Omid Mazarei | Omid Molavi      | :---:   |
+| Khosro | Omid Mazarei | Omid Molavi      | Arshia Madadi   |
+| Ali Jafari Valadani | Kamiyab Tajmiri | Abolfazl ResalatiFar     | ---   |
 
 # ✉️ Contact Me
 Feel free to reach out to me through any of the following platforms:
