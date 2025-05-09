@@ -343,7 +343,15 @@ The **Question & Answer** section is a dedicated space for users to ask question
     If you have any questions that don't fit into the categories covered in the previous sections, feel free to ask them here. This space is dedicated to addressing topics or issues that don't neatly fall into the other areas. If possible, I’ll respond with a text answer, but if the question requires more explanation, I'll try to create a dedicated video response for you.
 
 # 🙌 Donations
-If you find the content helpful and want to show your support, there are several ways you can contribute to keep the projects running. Every contribution, big or small, makes a difference and is greatly appreciated.
+If you find the content helpful and want to show your support, there are several ways you can contribute to keep the projects running. Every contribution, big or small, makes a difference and is greatly appreciated.   
+
+* ## **[Bank Transfer – کارت به کارت](# "کارت به کارت به حساب شخصی")**
+
+  If you prefer a **direct and commission-free support method**, you can contribute via **bank transfer**.
+  • Bank: **Tejarat Bank**
+  • Card Number: **۵۸۵۹–۸۳۱۱–۲۶۶۷–۶۳۵۱** - **5859831126676351**
+  This method is ideal for Iranian users who want to **avoid payment gateway fees** and ensure **the full amount of their support goes directly to the creator**. After transferring, feel free to message me on social media or email so I can personally thank you!
+  Your direct support plays a big role in keeping this platform alive and helping me create more free, high-quality educational content.
 
 - **[Hami Bash](https://hamibash.com/aKaReZa75/ 'حامی من باش')**  
     ---  
@@ -374,7 +382,8 @@ Here’s a list of amazing people who have supported me:
 | Abbas AghaJani  | Unknown2 | Quadro	| Mohammad Amini |
 | Mehrdad Ghasemi  | Mahmod Fakhri | MohamamdReza Beygi	| Mahdi Dadashi |
 | Khosro | Omid Mazarei | Omid Molavi      | Arshia Madadi   |
-| Ali Jafari Valadani | Kamiyab Tajmiri | Abolfazl ResalatiFar     | ---   |
+| Ali Jafari Valadani | Kamiyab Tajmiri | Abolfazl ResalatiFar     | Abbas AghajaniNia   |
+| Khosro RajabPour | Hafez Rostamali | Peyman Gordani    | ---   |
 
 # ✉️ Contact Me
 Feel free to reach out to me through any of the following platforms:
