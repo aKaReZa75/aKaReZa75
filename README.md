@@ -383,7 +383,7 @@ Here’s a list of amazing people who have supported me:
 | Mehrdad Ghasemi  | Mahmod Fakhri | MohamamdReza Beygi	| Mahdi Dadashi |
 | Khosro | Omid Mazarei | Omid Molavi      | Arshia Madadi   |
 | Ali Jafari Valadani | Kamiyab Tajmiri | Abolfazl ResalatiFar     | Abbas AghajaniNia   |
-| Khosro RajabPour | Hafez Rostamali | Peyman Gordani    | ---   |
+| Khosro RajabPour | Hafez Rostamali | Peiman Gordany    | Ali ZariBaf   |
 
 # ✉️ Contact Me
 Feel free to reach out to me through any of the following platforms:
