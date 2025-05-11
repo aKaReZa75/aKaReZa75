@@ -384,7 +384,7 @@ Here’s a list of amazing people who have supported me:
 | Khosro | Omid Mazarei | Omid Molavi      | Arshia Madadi   |
 | Ali Jafari Valadani | Kamiyab Tajmiri | Abolfazl ResalatiFar     | Abbas AghajaniNia   |
 | Khosro RajabPour | Hafez Rostamali | Peiman Gordany    | Ali ZariBaf   |
-| Khosro RajabPour | www.aryamadar.com     | :---:      | :---:   |
+| Khosro RajabPour | www.aryamadar.com     | Abbas AhmadiZadeh      | :---:   |
 # ✉️ Contact Me
 Feel free to reach out to me through any of the following platforms:
 - 📧 [Email: aKaReZa75@gmail.com](mailto:aKaReZa75@gmail.com)
