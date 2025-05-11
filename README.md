@@ -378,7 +378,7 @@ Here’s a list of amazing people who have supported me:
 | Siroos Hemmati  | Ali Padash | Pouriya MotiePour | Masoud RadFar |
 | :---:   | :---:     | :---:      | :---:   |
 | Jamil Ahmadi Rovari | Mohammad Mehdi Ahamdi | Unknown1 | Shahroz Amiri |
-| Majid aRizehbandi	  | Ali Jafari | Mohammad Azizi | MohammadReza Manafi |
+| Majid Rizehbandi	  | Ali Jafari | Mohammad Azizi | MohammadReza Manafi |
 | Abbas AghaJani  | Unknown2 | Quadro	| Mohammad Amini |
 | Mehrdad Ghasemi  | Mahmod Fakhri | MohamamdReza Beygi	| Mahdi Dadashi |
 | Khosro | Omid Mazarei | Omid Molavi      | Arshia Madadi   |
