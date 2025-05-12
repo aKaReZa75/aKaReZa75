@@ -349,7 +349,7 @@ If you find the content helpful and want to show your support, there are several
 
   If you prefer a **direct and commission-free support method**, you can contribute via **bank transfer**.
   • Bank: **Tejarat Bank**
-  • Card Number: **۵۸۵۹–۸۳۱۱–۲۶۶۷–۶۳۵۱** - **5859831126676351**
+  • Card Number: **۵۸۵۹–۸۳۱۱–۲۶۶۷–۶۳۵۱** - **5859831126676351**    
   This method is ideal for Iranian users who want to **avoid payment gateway fees** and ensure **the full amount of their support goes directly to the creator**. After transferring, feel free to message me on social media or email so I can personally thank you!
   Your direct support plays a big role in keeping this platform alive and helping me create more free, high-quality educational content.
 
