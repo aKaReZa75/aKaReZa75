@@ -313,6 +313,7 @@ By working with these boards, you'll be able to learn not just theory but also a
   │   └── ATMEGA328 
   │ 
   ├── Shields
+  │   ├── Quectel M66
   │   └── 7Segments & Oled
   │   
   └── Tools
@@ -329,6 +330,10 @@ By working with these boards, you'll be able to learn not just theory but also a
 - **[USB to TTL](https://github.com/aKaReZa75/eBoard_USBtoTTL)**  
     ---  
     A useful tool for bridging communication between your microcontroller and computer for programming, debugging, and serial communication.
+
+- **[Quectel M66 Shiled](https://github.com/aKaReZa75/eBoard_M66)**  
+    ---  
+    Educational shield for the **Quectel M66 GSM module**, fully compatible with Arduino UNO. This board is designed for learning and experimenting with GSM communication, AT commands, and embedded C/C++ applications.
 
 
 
