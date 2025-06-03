@@ -310,7 +310,8 @@ By working with these boards, you'll be able to learn not just theory but also a
 ```plaintext
  Content
   ├── Header Boards
-  │   └── ATMEGA328 
+  │   ├── ATMEGA328
+  │   └── STM32F103C8
   │ 
   ├── Shields
   │   ├── Quectel M66
@@ -323,6 +324,10 @@ By working with these boards, you'll be able to learn not just theory but also a
     ---  
     This board is designed based on the Arduino pinout, making it easy to interface with a wide range of existing shields. It provides a solid foundation for learning microcontroller programming, specifically using the ATMEGA328 microcontroller.
 
+- **[STM32F103C8](https://github.com/aKaReZa75/eBoard_STM32F103C8)**  
+    ---  
+    This board follows the Arduino pinout, ensuring seamless compatibility with a variety of existing shields. It serves as a strong platform for learning microcontroller programming, with a focus on the STM32F103C8 microcontroller.
+
 - **[7Segments & Oled](https://github.com/aKaReZa75/eBoard_7Segments)**  
     ---  
     This shield helps you easily interface with peripherals, allowing you to set up **GPIO** for both input and output, as well as **I2C** communication. You'll also learn how to drive **7-segment displays** and **RGB** LEDs, providing hands-on experience with display control and peripheral integration.
@@ -334,8 +339,6 @@ By working with these boards, you'll be able to learn not just theory but also a
 - **[Quectel M66 Shiled](https://github.com/aKaReZa75/eBoard_M66)**  
     ---  
     Educational shield for the **Quectel M66 GSM module**, fully compatible with Arduino UNO. This board is designed for learning and experimenting with GSM communication, AT commands, and embedded C/C++ applications.
-
-
 
 # ❓ Question & Answer
 The **Question & Answer** section is a dedicated space for users to ask questions that don't fit into the specific categories covered in other sections. If you have any doubts or need clarification on topics related to microcontrollers, electronics, PCB design, programming, or any other area not specifically addressed, feel free to post your questions here. 
