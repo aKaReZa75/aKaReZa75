@@ -77,13 +77,14 @@ Stay connected and updated with my latest content, projects, and updates! Feel f
 ## 🏆 Some of My Notable Projects:
 
 <p align="center">
-  <img src="https://api.star-history.com/svg?repos=aKaReZa75/RCS_AVR,aKaReZa75/Altium-Library,aKaReZa75/eBoard_ATMEGA328,aKaReZa75/Design_Template&type=Date&theme=dark">
+  <img src="https://api.star-history.com/svg?repos=aKaReZa75/RCS_AVR,aKaReZa75/Altium-Library,aKaReZa75/eBoard_ATMEGA328,aKaReZa75/Design_Template,aKaReZa75/eBoard_STM32F103C8&type=Date&theme=dark">
 </p>
 
 - [Altium Deisgner Library](https://github.com/aKaReZa75/Altium-Library)
 - [Altium Design Templates](https://github.com/aKaReZa75/Design_Template.git)      
 - [Relay Control with SMS using an AVR](https://github.com/aKaReZa75/RCS_AVR)  
 - [ATMEGA328 Educational Board](https://github.com/aKaReZa75/eBoard_ATMEGA328) 
+- [STM32F103C8 Educational Board](https://github.com/aKaReZa75/eBoard_STM32F103C8) 
 
 # 📑 Table of Contents
 1. 👾 [Microcontrollers](https://github.com/aKaReZa75#-microcontrollers)  
