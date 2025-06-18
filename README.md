@@ -81,10 +81,10 @@ Stay connected and updated with my latest content, projects, and updates! Feel f
 </p>
 
 - [Altium Deisgner Library](https://github.com/aKaReZa75/Altium-Library)
-- [Altium Design Templates](https://github.com/aKaReZa75/Design_Template.git)      
 - [Relay Control with SMS using an AVR](https://github.com/aKaReZa75/RCS_AVR)  
 - [ATMEGA328 Educational Board](https://github.com/aKaReZa75/eBoard_ATMEGA328) 
 - [STM32F103C8 Educational Board](https://github.com/aKaReZa75/eBoard_STM32F103C8) 
+- [Altium Design Templates](https://github.com/aKaReZa75/Design_Template.git)      
 
 # 📑 Table of Contents
 1. 👾 [Microcontrollers](https://github.com/aKaReZa75#-microcontrollers)  
