@@ -43,7 +43,6 @@ Stay connected and updated with my latest content, projects, and updates! Feel f
     </td>
   </tr>
 
-
   <tr>
     <td valign="top" style="padding: 0 10px;">
       <h3 style="margin: 0;">
@@ -65,14 +64,31 @@ Stay connected and updated with my latest content, projects, and updates! Feel f
   </tr>
 
   <tr>
-      <td colspan="2" align ="center" >
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/3QYfv7A7aMc">aKaReZa 124 – Embedded Systems Roadmap</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        Begin your embedded systems journey with clarity and purpose. This episode outlines a structured roadmap for mastering microcontrollers, communication protocols, hardware design, and project development. Learn how to choose your specialization, follow curated playlists, and engage effectively with the community—ideal for learners seeking a scalable, goal-driven path into embedded engineering.
+      </p>
+    </td>
+    <td width="360" valign="top">
+      <a href="https://youtu.be/3QYfv7A7aMc">
+        <img src="https://img.youtube.com/vi/3QYfv7A7aMc/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 124 – Embedded Systems Roadmap Thumbnail"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
       <a href="https://youtu.be/zYiUItVFRqQ">
         <img src="https://github-profile-trophy.vercel.app/?username=aKaReZa75&theme=darkhub"/>
       </a>
     </td>
   </tr>
-  
-</table> 
+</table>
 
 ## 🏆 Some of My Notable Projects:
 
