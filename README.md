@@ -69,7 +69,7 @@ Stay connected and updated with my latest content, projects, and updates! Feel f
         <a href="https://youtu.be/3QYfv7A7aMc">aKaReZa 124 – Embedded Systems Roadmap</a>
       </h3>
       <p style="margin: 8px 0 0;">
-        Begin your embedded systems journey with clarity and purpose. This episode outlines a structured roadmap for mastering microcontrollers, communication protocols, hardware design, and project development. Learn how to choose your specialization, follow curated playlists, and engage effectively with the community—ideal for learners seeking a scalable, goal-driven path into embedded engineering.
+        Begin your embedded systems journey with clarity and purpose. This episode outlines a structured roadmap for mastering microcontrollers, hardware design, and project development. Learn how to choose your specialization, follow curated playlists, and engage effectively with the community—ideal for learners seeking a scalable, goal-driven path into embedded engineering.
       </p>
     </td>
     <td width="360" valign="top">
