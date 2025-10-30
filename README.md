@@ -72,7 +72,7 @@ Stay connected and updated with my latest content, projects, and updates! Feel f
         Begin your embedded systems journey with clarity and purpose. This episode outlines a structured roadmap for mastering microcontrollers, hardware design, and project development. Learn how to choose your specialization, follow curated playlists, and engage effectively with the community—ideal for learners seeking a scalable, goal-driven path into embedded engineering.
       </p>
     </td>
-    <td width="360" valign="top">
+    <td width="360" valign="center">
       <a href="https://youtu.be/3QYfv7A7aMc">
         <img src="https://img.youtube.com/vi/3QYfv7A7aMc/maxresdefault.jpg"
              width="360"
