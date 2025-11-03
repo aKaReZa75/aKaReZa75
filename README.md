@@ -336,7 +336,8 @@ By working with these boards, you'll be able to learn not just theory but also a
   │   
   └── Tools
       ├── USB to TTL
-      └── STLINK Interface
+      ├── STLINK Interface
+      └── Can Analyzer
 ```
 - **[ATMEGA328](https://github.com/aKaReZa75/eBoard_ATMEGA328)**  
     ---  
@@ -361,6 +362,10 @@ By working with these boards, you'll be able to learn not just theory but also a
 - **[STLINK Interface](https://github.com/aKaReZa75/eBoard_STLINK_Interface)**  
     ---  
     A versatile PCB that bridges ST-LINK programmers (V2, V3, clones) to STM32 boards with standardized pinouts. It also includes a USB-to-TTL adapter, making it a compact all-in-one tool for programming, debugging, and serial communication in embedded development.
+
+- **[CAN Analyzer](https://github.com/aKaReZa75/eBoard_Can-Analyzer)**
+    ---  
+    This project is a custom **STM32-based CAN analyzer** designed to **capture, monitor, and analyze automotive CAN traffic** using tools like **SavvyCAN** or other compatible PC software. It supports both **Classical CAN (2.0A/B)** and **CAN FD**, making it a versatile and powerful tool for **vehicle diagnostics**, **reverse engineering**, and **data logging** applications.
   
 
 # ❓ Question & Answer
