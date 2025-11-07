@@ -419,9 +419,8 @@ Here’s a list of amazing people who have supported me:
 |                  Amin Kamali                  | AmirHossein Keshavarz Gahdimi |    Arasto Modiri    |         Arshia Madadi        |
 |                  Ashkan Yari                  |         Erfan Golrokhi        |  Fatemeh AhmadVand  |        Hafez Rostamali       |
 |               Hamid HassanKhani               |          Hojat Javeri         | Jamil Ahmadi Rovari |        Kamiyab Tajmiri       |
-|                 Kamran Kiyani                 |             Khosro            |   Khosro RajabPour  |       Majid Rizehbandi       |
+|                 Kamran Kiyani                 |        Khosro RajabPour       |   Majid Rizehbandi  |       Majid Rizehbandi       |
 |                 Mahdi Dadashi                 |         Mahmod Fakhri         |     Mehdi Asadi     |         Mehdi Kharazi        |
-|                     Mehran                    |      Mehrdad Ghasemi Taj      | Mehrdad KhosroDoost |        Mehrdad Rostami       |
 |              Mohamamd Kazem Javid             |     Mohamamd Mehdi Ahmadi     |    Mohammad Amini   |        Mohammad Azizi        |
 |                Mohammad Fakhri                |       MohammadReza Beygi      | MohammadReza Manafi |   MohammadReza PaydarTabar   |
 |                  Mohsen Nori                  |        Mojtaba Mazaheri       |     Omid Mazarei    |          Omid Molavi         |
