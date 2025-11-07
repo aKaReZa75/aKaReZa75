@@ -429,6 +429,7 @@ Here’s a list of amazing people who have supported me:
 |                  Saeid Norozi                 |      Seyed Ghasem Mosavi      |  Seyed Javad Hasani | Seyed MohammadAli HashemPour |
 |          SeyedMehdi SeyedMehdi Zadeh          |   Shahpor Jegarko Shahsharin  |    Shahroz Amiri    |            Unknown           |
 | [www.aryamadar.com](http://www.aryamadar.com) |         Masoud RadFar         |   Mehrdad Ghasemi   |         Mahdi Dadashi        |
+|                 Mehdi Karimi                  |         ----------            |   ----------        |         ----------           |
 
 # ✉️ Contact Me
 Feel free to reach out to me through any of the following platforms:
